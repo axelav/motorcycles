@@ -1,3 +1,3 @@
 # 1983 HONDA XL600R
 
-Notes, links & an issue tracker for my bike
+Rebuild [notes](notes.md) & an [issue tracker](https://github.com/axelav/XL600R/issues) for my bike.
