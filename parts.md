@@ -15,6 +15,10 @@
 
 - http://www.trailtech.net/digital-gauges/voyager-moto-gps?p=2
 
+## Bags
+
+- http://wolfmanluggage.com/
+
 ## Powdercoating
 
 - http://www.squarebuilt.com/

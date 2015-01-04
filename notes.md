@@ -11,5 +11,6 @@
 
 ## General Project Builds
 
+- http://19711007.blogspot.com/search/label/xl600
 - http://www.zrxoa.org/forums/showthread.php?251838-XL600R-Project
 - http://advrider.com/forums/showthread.php?t=413870&highlight=suspension+bushing+xl600

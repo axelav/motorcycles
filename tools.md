@@ -4,4 +4,4 @@
 - [ ] http://www.harborfreight.com/64-pc-14-in-38-in-12-in-drive-sae-metric-socket-set-67995.html
 - [ ] http://www.harborfreight.com/grease-gun-with-pistol-grip-66664.html
 - [ ] http://www.harborfreight.com/pack-of-50-15-inch-x-13-inch-all-purpose-shop-towels-46163.html
-- [ ] http://www.autozone.com/greases-and-gear-oil/lubricant-grease/coastal-moly-grease/561753_0_0/
+- [x] http://www.autozone.com/greases-and-gear-oil/lubricant-grease/coastal-moly-grease/561753_0_0/
