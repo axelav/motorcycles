@@ -9,6 +9,11 @@
 
 - https://4strokes.com/forums/topic.asp?TOPIC_ID=28330
 
+## Electrical
+
+- http://supermotojunkie.com/showthread.php?131300-1983-Xl600r-supermotard-attempt&s=539c337317b9160938c58eee129525cd&p=1484638#post1484638
+  interesting battery holder
+
 ## General Project Builds
 
 - http://19711007.blogspot.com/search/label/xl600
