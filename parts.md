@@ -1,7 +1,18 @@
 # parts
 
+## tires
+
+- [Pirelli Scorpion MT90 A/T](http://www.bikebandit.com/tires-tubes/motorcycle-tires/pirelli-scorpion-mt90-a-t-motorcycle-tire?b=275578)
+  think I'm going to get these
+- [Metzeler Tourance EXP](http://www.bikebandit.com/tires-tubes/motorcycle-tires/metzeler-tourance-exp-motorcycle-tire)
+- [Kenda K761](http://www.bikebandit.com/tires-tubes/motorcycle-tires/kenda-k761-dual-sport-tire?b=3077746)
+- [Pirelli MT 21](http://www.motorcycle-superstore.com/5416/i/pirelli-mt-21-rallycross-rear-tire)
+  more dirt-oriented
+
+
 ## bags
 
+- [altrider hemisphere saddle bag](http://www.altrider.com/altrider-hemisphere-saddlebag/pid/1467/cid/14)
 - [E-12 saddle bags](http://wolfmanluggage.com/products/e-12-saddle-bags) $165
 - [large rolie bag](http://wolfmanluggage.com/products/large-rolie-bag) $80
 - tank bag: [small expedition](http://wolfmanluggage.com/products/small-expedition-tank-bag)
