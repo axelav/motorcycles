@@ -5,9 +5,11 @@
 - [Pirelli Scorpion MT90 A/T](http://www.bikebandit.com/tires-tubes/motorcycle-tires/pirelli-scorpion-mt90-a-t-motorcycle-tire?b=275578)
   think I'm going to get these
 - [Metzeler Tourance EXP](http://www.bikebandit.com/tires-tubes/motorcycle-tires/metzeler-tourance-exp-motorcycle-tire)
+- [Metzeler Enduro 3 Sahara](http://www.bikebandit.com/tires-tubes/motorcycle-tires/metzeler-enduro-3-sahara-motorcycle-tire?b=156390)
 - [Kenda K761](http://www.bikebandit.com/tires-tubes/motorcycle-tires/kenda-k761-dual-sport-tire?b=3077746)
 - [Pirelli MT 21](http://www.motorcycle-superstore.com/5416/i/pirelli-mt-21-rallycross-rear-tire)
   more dirt-oriented
+- [IRC GP-1](http://www.bikebandit.com/tires-tubes/motorcycle-tires/irc-gp-110-motorcycle-tire?b=45066)
 
 
 ## bags
