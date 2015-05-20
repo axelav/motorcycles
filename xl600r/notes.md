@@ -1,10 +1,5 @@
 # notes & links
 
-## tire sizes
-
-front: 90/90-21
-rear: 130/80-17
-
 ## oil cooler
 
 some good info in this [discussion](http://www.advrider.com/forums/showthread.php?t=652313)

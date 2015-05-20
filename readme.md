@@ -1,3 +1,6 @@
-# 1983 HONDA XL600R
+# motorcycles
 
-Rebuild [notes](notes.md) & an [issue tracker](https://github.com/axelav/XL600R/issues) for my bike.
+maintainence histories, notes & an [issue tracker](https://github.com/axelav/motorcycles/issues) for my bikes.
+
+- [2008 honda xr650l](xl600r/)
+- [1983 honda xl600r](xl600r/)
