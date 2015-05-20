@@ -1,14 +1,15 @@
-# history
+# 2008 xr650l history
 
-date purchased: 5/17/15
-miles: 12409
+purchased on **5/17/15** with **12409** miles
 
 
 ## maintainence
 
-date      miles   tasks
+date      | miles | tasks
+----------|-------|---------
+
 
 ## pre-ownership maintainence
 
-
-date      miles   tasks
+date      | miles | tasks
+----------|-------|---------
