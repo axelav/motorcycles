@@ -10,13 +10,13 @@ suggested parts here
 - [x] 8mm
 - [x] 10mm
 - [x] 12mm
-- [ ] 13mm (?)
+- [x] 13mm
 - [x] 14mm
 - [x] 17mm
 - [ ] 19mm (?)
 - [x] 24mm
 
-# hex wrenches
+### hex wrenches
 
 - [x] 4mm
 - [x] 5mm
@@ -49,9 +49,9 @@ suggested parts here
 ### other
 
 - [ ] spark plug puller
+- [ ] spark plug
 - [x] pliers
 - [ ] large zip ties
-- [ ] leatherman (may have one in guitar pedal box in closet)
 - [x] rag
 - [ ] spare fuel line
 - [ ] quicksteel / jb weld
@@ -59,14 +59,6 @@ suggested parts here
 - [ ] electrical tape
 - [ ] duct tape
 - [ ] short length of extra chain & master link (?)
-
-
-## clothing
-
-- [Red Clouds Vest](http://redcloudscollective.com/all-products/waxed-canvas-vest)
-- [Darien Pants](http://www.aerostich.com/jackets-pants/darien/darien-pants.html)
-- [DarienLight Pants](http://www.aerostich.com/review/product/list/id/5180/category/379/?p=2)
-- [Aerostich Scarf](http://www.aerostich.com/aerostich-silk-scarves.html)
 
 
 ## tires
@@ -99,10 +91,12 @@ lots seem to recommend:
 
 ## indicators
 
-- http://modernmotorcycle.co/collections/indicators
+- [led rear, brake & turn](http://www.twistedthrottle.com/admore-lighting-led-light-bar-mini-with-running-brake-and-progressive-amber-turn-signals)
+
 
 ## headlights
 
+- [denali d2](http://www.twistedthrottle.com/denali-d2d-dual-intensity-led-lighting-2-light-kit-with-full-wiring-harness-and-m8-mount)
 - https://www.tirerack.com/lighting/detail.jsp?ID=1184&brand=Hella
 - http://www.advrider.com/forums/showthread.php?t=249720
 - http://www.bajadesigns.com/ProductDetail?ItemNumber=610005
