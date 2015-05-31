@@ -21,6 +21,6 @@ date      | miles | tasks
 date      | miles | tasks
 ----------|-------|---------
 ??/03/14  | ???   | change oil & replace filter
-                  | replace front brake cable (other stuff???)
-                  | replace rear brake shoe
-                  | clean & jet carbs
+          |       | replace front brake cable
+          |       | replace rear brake shoe
+          |       | clean & jet carbs
