@@ -7,13 +7,13 @@ purchased on **8/8/14** with **2574** miles
 
 date      | miles | tasks
 ----------|-------|---------
-09/07/14  | 2650  | change oil & replace filter
-10/18/14  | -     | tail light replaced
 03/15/15  | 3197  | change oil & replace filter
           |       | clean & lubricate suspension
           |       | fill front brake fluid
           |       | clean up electrical system
           |       | replace missing control bulbs
+10/18/14  | -     | tail light replaced
+09/07/14  | 2650  | change oil & replace filter
 
 
 ## pre-ownership maintainence

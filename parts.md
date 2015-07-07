@@ -49,7 +49,7 @@ suggested parts here
 ### other
 
 - [ ] spark plug puller
-- [ ] spark plug
+- [x] spark plug
 - [x] pliers
 - [ ] large zip ties
 - [x] rag
