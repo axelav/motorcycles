@@ -8,6 +8,8 @@ purchased on **5/17/15** with **12409** miles
 date        | miles | tasks
 ------------|-------|---------
 2015-07-01  |       | install stock linkage (1996 model)
+2015-07-15  |       | install bar risers & pro taper handlebars
+            |       | fill rear brake fluid
 
 
 ## pre-ownership maintainence
