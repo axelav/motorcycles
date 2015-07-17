@@ -3,13 +3,10 @@
 
 ## things to do
 
-- handlebars & risers
-- rear suspension linkage; currently a lowering link is installed
 - subframe support
   - [support arms](http://www.twistedthrottle.com/sw-motech-sub-frame-support-arms-honda-xr650l-silver)
   - [hog legs](http://www.manracks.com/#!honda-xr650l/c108q)
 - [oil cooler](http://www.suttoncycleworks.com/oilCooler.html) (~$300)
-- rear tire
 
 
 ## service manuals
