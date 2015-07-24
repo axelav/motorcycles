@@ -7,8 +7,8 @@ purchased on **5/17/15** with **12409** miles
 
 date        | miles | tasks
 ------------|-------|---------
-2015-07-01  |       | install stock linkage (1996 model)
-2015-07-15  |       | install bar risers & pro taper handlebars
+2015-07-01  | 12700 | install stock linkage (1996 model)
+2015-07-15  | 12850 | install bar risers & pro taper handlebars
             |       | fill rear brake fluid
 
 
@@ -16,7 +16,7 @@ date        | miles | tasks
 
 date        | miles | tasks
 ------------|-------|---------
-2015-05-01  | 13391 | install lowering link
+2015-05-01  | 12391 | install lowering link
 2014-10-29  | 12390 | change oil & replace filter
 2014-09-10  | 12200 | replace starter relay switch (2001 model)
             |       | repack muffler
