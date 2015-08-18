@@ -20,7 +20,7 @@ suggested parts here
 
 - [x] 4mm
 - [x] 5mm
-- [ ] 6mm (?)
+- [x] 6mm
 
 ### sockets
 
@@ -40,7 +40,7 @@ suggested parts here
 ### tires
 
 - [ ] tubes
-- [ ] small tire irons
+- [ ] tire spoons (3)
 - [ ] patches
 - [ ] glue
 - [ ] pump / air compressor
@@ -48,7 +48,7 @@ suggested parts here
 
 ### other
 
-- [ ] spark plug puller
+- [x] spark plug puller
 - [x] spark plug
 - [x] pliers
 - [ ] large zip ties

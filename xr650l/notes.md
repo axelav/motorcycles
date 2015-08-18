@@ -25,3 +25,8 @@
 
 - [texas adventure](http://www.texasadventure.net/bikes-and-gear/project-xr650l-adventure/)
 - [sahara build](http://www.motorbikenomad.co.uk/blog/bike/)
+
+
+## mods/guides
+
+- [4strokes.com](http://www.4strokes.com/technical/honda/)
