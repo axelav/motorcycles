@@ -7,7 +7,9 @@ purchased on **5/17/15** with **12409** miles
 
 date        | miles | tasks
 ------------|-------|---------
-2015--7-26  | 13040 | replace rear tire (pirelli scorpion mt90)
+2015-08-27  | 13450 | reset values
+            |       | lube chain
+2015-07-26  | 13040 | replace rear tire (pirelli scorpion mt90)
             |       | grease rear axle
 2015-07-15  | 12850 | install bar risers & pro taper handlebars
             |       | fill rear brake fluid
