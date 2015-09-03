@@ -7,6 +7,8 @@ purchased on **5/17/15** with **12409** miles
 
 date        | miles | tasks
 ------------|-------|---------
+2015-09-02  | 13525 | replace chain
+            |       | replace front sprocket (15)
 2015-08-30  | 13490 | change oil & replace filter
 2015-08-27  | 13450 | reset values
             |       | lube chain
