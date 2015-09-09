@@ -1,65 +1,5 @@
 # parts
 
-## tool kit
-
-good [overview](http://www.advrider.com/forums/showthread.php?t=262998) of
-suggested parts here
-
-### wrenches
-
-- [x] 8mm
-- [x] 10mm
-- [x] 12mm
-- [x] 13mm
-- [x] 14mm
-- [x] 17mm
-- [ ] 19mm (?)
-- [x] 24mm
-
-### hex wrenches
-
-- [x] 4mm
-- [x] 5mm
-- [x] 6mm
-
-### sockets
-
-- [ ] 1/4" driver / t-handle (?)
-- [ ] 4" extension
-- [ ] 8mm
-- [ ] 10mm
-- [ ] 12mm
-- [ ] 13mm
-- [ ] 14mm
-
-### drivers
-
-- [x] flat head
-- [x] philips
-
-### tires
-
-- [ ] tubes
-- [ ] tire spoons (3)
-- [ ] patches
-- [ ] glue
-- [ ] pump / air compressor
-- [ ] soap
-
-### other
-
-- [x] spark plug puller
-- [x] spark plug
-- [x] pliers
-- [ ] large zip ties
-- [x] rag
-- [ ] spare fuel line
-- [ ] quicksteel / jb weld
-- [ ] 2' electrical wire
-- [ ] electrical tape
-- [ ] duct tape
-- [ ] short length of extra chain & master link (?)
-
 
 ## tires
 
@@ -82,12 +22,9 @@ lots seem to recommend:
 
 ## bags
 
-- [altrider hemisphere saddle bag](http://www.altrider.com/altrider-hemisphere-saddlebag/pid/1467/cid/14)
-  requires no racks; provides 44L of storage; costs ~$375
 - [E-12 saddle bags](http://wolfmanluggage.com/products/e-12-saddle-bags) $165
 - [large rolie bag](http://wolfmanluggage.com/products/large-rolie-bag) $80
-- tank bag: [small expedition](http://wolfmanluggage.com/products/small-expedition-tank-bag)
-  or [blackhawk](http://wolfmanluggage.com/products/blackhawk-tank-bag) $130
+
 
 ## indicators
 
@@ -102,6 +39,9 @@ lots seem to recommend:
 - http://www.bajadesigns.com/ProductDetail?ItemNumber=610005
 - http://www.rickystator.com/product/lighting-systems/honda
 
+
 ## gauges
 
-- http://www.trailtech.net/digital-gauges/voyager-moto-gps?p=2
+- [trail tech voyager](http://www.trailtech.net/digital-gauges/voyager-moto-gps)
+- [trail tech vapor](http://www.trailtech.net/digital-gauges/vapor/752-402)
+- [trail tech vapor indicator light dashboard](http://www.trailtech.net/digital-gauges/vapor/vapor-accessories/022-pda)
