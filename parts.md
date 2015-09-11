@@ -45,3 +45,21 @@ lots seem to recommend:
 - [trail tech voyager](http://www.trailtech.net/digital-gauges/voyager-moto-gps)
 - [trail tech vapor](http://www.trailtech.net/digital-gauges/vapor/752-402)
 - [trail tech vapor indicator light dashboard](http://www.trailtech.net/digital-gauges/vapor/vapor-accessories/022-pda)
+
+
+## seat pads
+
+- [airhawk 2 pillon](http://www.leeparksdesign.com/airhawk-2-pillion/)
+
+
+## shocks
+
+race tech 2008 xr650l options
+http://racetech.com/ProductSearch/1/Honda/XR650L/2008
+
+- [race tech frsp fork springs (frsp 405149)](http://www.racetech.com/page/title/FRSP-RT%20Fork%20Spring%20List)
+
+
+## fork brace
+
+- [superbrace](http://superbrace.com/shop/2256-honda-xr-650l/)
