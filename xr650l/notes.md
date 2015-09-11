@@ -17,6 +17,7 @@
 - [gear list for 18k mi trip](http://advrider.com/forums/showthread.php?p=17334295)
 - [oil cooler opinions](http://www.advrider.com/forums/showthread.php?t=652313)
 - [headlights](https://4strokes.com/forums/topic.asp?TOPIC_ID=28330)
+- [more headlights](http://www.advrider.com/forums/showthread.php?t=249720)
 - [hi/lo race headlights](http://www.thumpertalk.com/topic/634432-single-8-inch-race-light-with-hilow-beam/)
 - [trail tech vapor install](http://advrider.com/index.php?threads/tt-vapor-install-instructions-for-a-xr650l.545100/)
 

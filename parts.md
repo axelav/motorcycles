@@ -22,8 +22,8 @@ lots seem to recommend:
 
 ## bags
 
-- [E-12 saddle bags](http://wolfmanluggage.com/products/e-12-saddle-bags) $165
-- ~~[large rolie bag](http://wolfmanluggage.com/products/large-rolie-bag) $80~~
+- [E-12 saddle bags](http://wolfmanluggage.com/products/e-12-saddle-bags)
+- ~~[large rolie bag](http://wolfmanluggage.com/products/large-rolie-bag)~~
 - ~~[enduro tank bag](http://wolfmanluggage.com/products/enduro-tank-bag)~~
 
 
@@ -37,10 +37,7 @@ lots seem to recommend:
 
 - [trail tech 8in race light](http://www.trailtech.net/lighting/halogen/8in-race-light/1832-55-00)
 - [denali d2](http://www.twistedthrottle.com/denali-d2d-dual-intensity-led-lighting-2-light-kit-with-full-wiring-harness-and-m8-mount)
-- https://www.tirerack.com/lighting/detail.jsp?ID=1184&brand=Hella
-- http://www.advrider.com/forums/showthread.php?t=249720
-- http://www.bajadesigns.com/ProductDetail?ItemNumber=610005
-- http://www.rickystator.com/product/lighting-systems/honda
+- [hella 500 ff](http://www.amazon.com/HELLA-5750941-12-Volt-55-Watt-Halogen/dp/B001TWD5GY/ref=sr_1_1?ie=UTF8&qid=1442003835&sr=8-1&keywords=hella+500+ff)
 
 
 ## controls
@@ -52,7 +49,8 @@ lots seem to recommend:
 
 ## oil cooler
 
-- [sutton motorworks](http://www.suttoncycleworks.com/oilCooler.html) (~$300)
+- [sutton motorworks](http://www.suttoncycleworks.com/oilCooler.html)
+
 
 ## racks
 
