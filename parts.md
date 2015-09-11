@@ -67,3 +67,21 @@ lots seem to recommend:
 ## service manuals
 
 - ~~[honda service manual](http://www.helminc.com/helm/product2.asp?Make=AHC&Model=XR15&Year=2008&Category=&class_2=AHC&mk=Honda+Motorcycle&yr=2008&md=XR650L&dt=&module=&from=result&Style=helm&Sku=61MY655&itemtype=N)~~
+
+
+## seat pads
+
+- [airhawk 2 pillon](http://www.leeparksdesign.com/airhawk-2-pillion/)
+
+
+## shocks
+
+race tech 2008 xr650l options
+http://racetech.com/ProductSearch/1/Honda/XR650L/2008
+
+- [race tech frsp fork springs (frsp 405149)](http://www.racetech.com/page/title/FRSP-RT%20Fork%20Spring%20List)
+
+
+## fork brace
+
+- [superbrace](http://superbrace.com/shop/2256-honda-xr-650l/)
