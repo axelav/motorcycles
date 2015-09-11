@@ -50,7 +50,7 @@ suggested parts here
 
 - [x] spark plug puller
 - [x] spark plug
-- [x] pliers
+- [ ] pliers
 - [ ] large zip ties
 - [x] rag
 - [ ] spare fuel line

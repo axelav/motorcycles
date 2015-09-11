@@ -1,17 +1,14 @@
 # notes
 
 
-## things to do
+## todo
 
-- subframe support
-  - [support arms](http://www.twistedthrottle.com/sw-motech-sub-frame-support-arms-honda-xr650l-silver)
-  - ~~[hog legs](http://www.manracks.com/#!honda-xr650l/c108q)~~
-- [oil cooler](http://www.suttoncycleworks.com/oilCooler.html) (~$300)
-
-
-## service manuals
-
-- ~~[honda service manual](http://www.helminc.com/helm/product2.asp?Make=AHC&Model=XR15&Year=2008&Category=&class_2=AHC&mk=Honda+Motorcycle&yr=2008&md=XR650L&dt=&module=&from=result&Style=helm&Sku=61MY655&itemtype=N)~~
+- taillight
+- headlight
+- ~~subframe support~~
+- dashboard controls
+- oil cooler
+- suspension
 
 
 ## threads
@@ -20,6 +17,8 @@
 - [gear list for 18k mi trip](http://advrider.com/forums/showthread.php?p=17334295)
 - [oil cooler opinions](http://www.advrider.com/forums/showthread.php?t=652313)
 - [headlights](https://4strokes.com/forums/topic.asp?TOPIC_ID=28330)
+- [hi/lo race headlights](http://www.thumpertalk.com/topic/634432-single-8-inch-race-light-with-hilow-beam/)
+- [trail tech vapor install](http://advrider.com/index.php?threads/tt-vapor-install-instructions-for-a-xr650l.545100/)
 
 
 ## builds

@@ -23,16 +23,19 @@ lots seem to recommend:
 ## bags
 
 - [E-12 saddle bags](http://wolfmanluggage.com/products/e-12-saddle-bags) $165
-- [large rolie bag](http://wolfmanluggage.com/products/large-rolie-bag) $80
+- ~~[large rolie bag](http://wolfmanluggage.com/products/large-rolie-bag) $80~~
+- ~~[enduro tank bag](http://wolfmanluggage.com/products/enduro-tank-bag)~~
 
 
 ## indicators
 
+- [led taillight](http://wheelingcyclesupply.com/shop/product/inner-tail-light-kit--xr600650-and-more--/801)
 - [led rear, brake & turn](http://www.twistedthrottle.com/admore-lighting-led-light-bar-mini-with-running-brake-and-progressive-amber-turn-signals)
 
 
 ## headlights
 
+- [trail tech 8in race light](http://www.trailtech.net/lighting/halogen/8in-race-light/1832-55-00)
 - [denali d2](http://www.twistedthrottle.com/denali-d2d-dual-intensity-led-lighting-2-light-kit-with-full-wiring-harness-and-m8-mount)
 - https://www.tirerack.com/lighting/detail.jsp?ID=1184&brand=Hella
 - http://www.advrider.com/forums/showthread.php?t=249720
@@ -40,8 +43,27 @@ lots seem to recommend:
 - http://www.rickystator.com/product/lighting-systems/honda
 
 
-## gauges
+## controls
 
 - [trail tech voyager](http://www.trailtech.net/digital-gauges/voyager-moto-gps)
 - [trail tech vapor](http://www.trailtech.net/digital-gauges/vapor/752-402)
 - [trail tech vapor indicator light dashboard](http://www.trailtech.net/digital-gauges/vapor/vapor-accessories/022-pda)
+
+
+## oil cooler
+
+- [sutton motorworks](http://www.suttoncycleworks.com/oilCooler.html) (~$300)
+
+## racks
+
+- [happy trail](http://www.happy-trail.com/XR650L.aspx)
+
+
+## subframe support
+
+- [support arms](http://www.twistedthrottle.com/sw-motech-sub-frame-support-arms-honda-xr650l-silver)
+- ~~[hog legs](http://www.manracks.com/#!honda-xr650l/c108q)~~
+
+## service manuals
+
+- ~~[honda service manual](http://www.helminc.com/helm/product2.asp?Make=AHC&Model=XR15&Year=2008&Category=&class_2=AHC&mk=Honda+Motorcycle&yr=2008&md=XR650L&dt=&module=&from=result&Style=helm&Sku=61MY655&itemtype=N)~~
