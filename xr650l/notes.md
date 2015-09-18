@@ -5,10 +5,12 @@
 
 - taillight
 - headlight
-- ~~subframe support~~
 - dashboard controls
-- oil cooler
 - suspension
+- front fork brace
+- shorai battery
+- oil cooler
+- ~~subframe support~~
 
 
 ## threads

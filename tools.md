@@ -13,7 +13,6 @@ suggested parts here
 - [x] 13mm
 - [x] 14mm
 - [x] 17mm
-- [ ] 19mm (?)
 - [x] 24mm
 
 ### hex wrenches

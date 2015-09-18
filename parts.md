@@ -10,12 +10,13 @@
 - [Pirelli MT 21][mt21] more dirt-oriented
 - [IRC GP-1](http://www.bikebandit.com/tires-tubes/motorcycle-tires/irc-gp-110-motorcycle-tire?b=45066)
 - [Dunlop D606][d606]
+- Kenda K760 Trakmaster II
 
 lots seem to recommend:
 - [MT 21][mt21] on the front
 - [D606][d606] on the rear
 
-[mt21]: http://www.motorcycle-superstore.com/5416/i/pirelli-mt-21-rallycross-rear-tire
+[mt21]: http://www.motorcycle-superstore.com/5413/i/pirelli-mt-21-rallycross-front-tire
 [d606]: http://www.bikebandit.com/tires-tubes/motorcycle-tires/dunlop-d606-motorcycle-tire
 [scorpion]: http://www.bikebandit.com/tires-tubes/motorcycle-tires/pirelli-scorpion-mt90-a-t-motorcycle-tire?b=275578
 
