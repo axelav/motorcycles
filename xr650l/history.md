@@ -7,6 +7,7 @@ purchased on **5/17/15** with **12409** miles
 
 date        | miles | tasks
 ------------|-------|---------
+2015-09-24  | 14061 | adjust throttle
 2015-09-12  | 13960 | install subframe supports
 2015-09-11  | 13954 | repack muffler
 2015-09-09  | 13940 | replace spark plug (dpr8ea9)
