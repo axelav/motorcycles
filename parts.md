@@ -1,6 +1,5 @@
 # parts
 
-
 ## tires
 
 - [Pirelli Scorpion MT90 A/T][scorpion] probably best street oriented option
@@ -20,19 +19,16 @@ lots seem to recommend:
 [d606]: http://www.bikebandit.com/tires-tubes/motorcycle-tires/dunlop-d606-motorcycle-tire
 [scorpion]: http://www.bikebandit.com/tires-tubes/motorcycle-tires/pirelli-scorpion-mt90-a-t-motorcycle-tire?b=275578
 
-
 ## bags
 
 - [E-12 saddle bags](http://wolfmanluggage.com/products/e-12-saddle-bags)
 - ~~[large rolie bag](http://wolfmanluggage.com/products/large-rolie-bag)~~
 - ~~[enduro tank bag](http://wolfmanluggage.com/products/enduro-tank-bag)~~
 
-
 ## indicators
 
 - [led taillight](http://wheelingcyclesupply.com/shop/product/inner-tail-light-kit--xr600650-and-more--/801)
 - [led rear, brake & turn](http://www.twistedthrottle.com/admore-lighting-led-light-bar-mini-with-running-brake-and-progressive-amber-turn-signals)
-
 
 ## headlights
 
@@ -40,23 +36,19 @@ lots seem to recommend:
 - [denali d2](http://www.twistedthrottle.com/denali-d2d-dual-intensity-led-lighting-2-light-kit-with-full-wiring-harness-and-m8-mount)
 - [hella 500 ff](http://www.amazon.com/HELLA-5750941-12-Volt-55-Watt-Halogen/dp/B001TWD5GY/ref=sr_1_1?ie=UTF8&qid=1442003835&sr=8-1&keywords=hella+500+ff)
 
-
 ## controls
 
 - [trail tech voyager](http://www.trailtech.net/digital-gauges/voyager-moto-gps)
 - [trail tech vapor](http://www.trailtech.net/digital-gauges/vapor/752-402)
 - [trail tech vapor indicator light dashboard](http://www.trailtech.net/digital-gauges/vapor/vapor-accessories/022-pda)
 
-
 ## oil cooler
 
 - [sutton motorworks](http://www.suttoncycleworks.com/oilCooler.html)
 
-
 ## racks
 
 - [happy trail](http://www.happy-trail.com/XR650L.aspx)
-
 
 ## subframe support
 
@@ -67,11 +59,9 @@ lots seem to recommend:
 
 - ~~[honda service manual](http://www.helminc.com/helm/product2.asp?Make=AHC&Model=XR15&Year=2008&Category=&class_2=AHC&mk=Honda+Motorcycle&yr=2008&md=XR650L&dt=&module=&from=result&Style=helm&Sku=61MY655&itemtype=N)~~
 
-
 ## seat pads
 
 - [airhawk 2 pillon](http://www.leeparksdesign.com/airhawk-2-pillion/)
-
 
 ## shocks
 
@@ -79,7 +69,6 @@ race tech 2008 xr650l options
 http://racetech.com/ProductSearch/1/Honda/XR650L/2008
 
 - [race tech frsp fork springs (frsp 405149)](http://www.racetech.com/page/title/FRSP-RT%20Fork%20Spring%20List)
-
 
 ## fork brace
 

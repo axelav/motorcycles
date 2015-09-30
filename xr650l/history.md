@@ -23,7 +23,6 @@ date        | miles | tasks
             |       | fill rear brake fluid
 2015-07-01  | 12700 | install stock linkage (1996 model)
 
-
 ## pre-ownership maintainence
 
 date        | miles | tasks
