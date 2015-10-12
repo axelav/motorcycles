@@ -2,14 +2,14 @@
 
 ## todo
 
-- taillight
-- headlight
-- dashboard controls
-- suspension
-- front fork brace
-- shorai battery
-- oil cooler
-- ~~subframe support~~
+- [x] subframe support
+- [ ] shorai battery
+- [ ] taillight
+- [ ] headlight
+- [ ] dashboard controls
+- [ ] suspension
+- [ ] front fork brace
+- [ ] oil cooler
 
 ## shops
 
@@ -35,3 +35,11 @@
 ## mods/guides
 
 - [4strokes.com](http://www.4strokes.com/technical/honda/)
+
+## videos
+
+- [carb dis/assembly](https://www.youtube.com/watch?v=WOO8puMGiqM)
+
+## stuff
+
+- [fuel sling](http://www.winterco.us/product/fuel-bottle-sling)

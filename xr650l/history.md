@@ -2,11 +2,24 @@
 
 purchased on **5/17/15** with **12409** miles
 
+## current settings
+
+#### damping
+
+- compression: 7 clicks
+- front: 3 clicks
+- rear: 10 clicks
+
+#### sprockets
+
+- front: 15
+- rear: 45
 
 ## maintainence
 
 date        | miles | tasks
 ------------|-------|---------
+2015-10-11  | 14313 | lube & adjust chain
 2015-09-24  | 14061 | adjust throttle
 2015-09-12  | 13960 | install subframe supports
 2015-09-11  | 13954 | repack muffler
