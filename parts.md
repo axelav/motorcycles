@@ -2,6 +2,7 @@
 
 ## tires
 
+- [Mefo Super Explorer](http://www.twistedthrottle.com/tire-mefo-super-explorer-rear-dot-dual-sport-140-80-18-g650x-challenge-g450x-te610-lc4-640-adv-sc-lc4-690-enduro-lc8-950se-exc-others)
 - [Pirelli Scorpion MT90 A/T][scorpion] probably best street oriented option
 - [Metzeler Tourance EXP](http://www.bikebandit.com/tires-tubes/motorcycle-tires/metzeler-tourance-exp-motorcycle-tire)
 - [Metzeler Enduro 3 Sahara](http://www.bikebandit.com/tires-tubes/motorcycle-tires/metzeler-enduro-3-sahara-motorcycle-tire?b=156390)
