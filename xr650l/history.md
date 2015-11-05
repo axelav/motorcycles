@@ -2,19 +2,6 @@
 
 purchased on **5/17/15** with **12409** miles
 
-## current settings
-
-#### damping
-
-- compression: 7 clicks
-- front: 3 clicks
-- rear: 10 clicks
-
-#### sprockets
-
-- front: 15
-- rear: 45
-
 ## maintainence
 
 date        | miles | tasks
