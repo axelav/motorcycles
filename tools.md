@@ -23,13 +23,12 @@ suggested parts here
 
 ### sockets
 
-- [ ] 1/4" driver / t-handle (?)
-- [ ] 4" extension
-- [ ] 8mm
-- [ ] 10mm
-- [ ] 12mm
-- [ ] 13mm
-- [ ] 14mm
+- [x] 1/4" driver
+- [x] 8mm
+- [x] 10mm
+- [x] 12mm
+- [x] 13mm
+- [x] 14mm
 
 ### drivers
 
@@ -49,6 +48,7 @@ suggested parts here
 
 - [x] spark plug puller
 - [x] spark plug
+- [x] light
 - [ ] pliers
 - [ ] large zip ties
 - [x] rag
