@@ -2,6 +2,7 @@
 
 ## tires
 
+- [Continental Twinduro TKC80](http://www.revzilla.com/product/continental-twinduro-tkc80-dual-sport-tires)
 - [Mefo Super Explorer](http://www.twistedthrottle.com/tire-mefo-super-explorer-rear-dot-dual-sport-140-80-18-g650x-challenge-g450x-te610-lc4-640-adv-sc-lc4-690-enduro-lc8-950se-exc-others)
 - [Pirelli Scorpion MT90 A/T][scorpion] probably best street oriented option
 - [Metzeler Tourance EXP](http://www.bikebandit.com/tires-tubes/motorcycle-tires/metzeler-tourance-exp-motorcycle-tire)
@@ -10,7 +11,6 @@
 - [Pirelli MT 21][mt21] more dirt-oriented
 - [IRC GP-1](http://www.bikebandit.com/tires-tubes/motorcycle-tires/irc-gp-110-motorcycle-tire?b=45066)
 - [Dunlop D606][d606]
-- Kenda K760 Trakmaster II
 
 lots seem to recommend:
 - [MT 21][mt21] on the front
