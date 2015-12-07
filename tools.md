@@ -49,8 +49,8 @@ suggested parts here
 - [x] spark plug puller
 - [x] spark plug
 - [x] light
-- [ ] pliers
-- [ ] large zip ties
+- [x] pliers
+- [x] large zip ties
 - [x] rag
 - [ ] spare fuel line
 - [ ] quicksteel / jb weld
