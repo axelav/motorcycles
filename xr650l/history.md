@@ -6,6 +6,8 @@ purchased on **5/17/15** with **12409** miles
 
 date        | miles | tasks
 ------------|-------|---------
+2015-12-05  | 14735 | install & relocate shorai battery
+            |       | remove battery box
 2015-11-20  | 14663 | change oil & replace filter
 2015-10-28  | 14383 | replace rear brake pads
 2015-10-11  | 14313 | lube & adjust chain
