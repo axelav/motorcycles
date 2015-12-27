@@ -12,4 +12,3 @@ wash every six months or more frequently if used daily
 3. rinse thoroughly
 4. wring out & lay flat
 5. hang to air dry
-
