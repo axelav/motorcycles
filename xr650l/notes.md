@@ -3,13 +3,20 @@
 ## todo
 
 - [x] subframe support
-- [ ] shorai battery
+- [x] shorai battery
 - [ ] taillight
 - [ ] headlight
 - [ ] dashboard controls
 - [ ] suspension
 - [ ] front fork brace
 - [ ] oil cooler
+
+## settings
+
+### jetting
+
+idle: 58
+main: 165 (160?) (dynojet 3rd notch)
 
 ## shops
 
