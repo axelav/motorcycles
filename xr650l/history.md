@@ -6,7 +6,9 @@ purchased on **5/17/15** with **12409** miles
 
 date        | miles | tasks
 ------------|-------|---------
-2016-01-01  | 15XXX | clean carb
+2016-02-01  | 15019 | install steel front brake line
+            |       | bleed front & rear brake fluid
+2016-01-01  | 15000 | clean carb
 2015-12-27  | 14977 | install fuel filter
 2015-12-13  | 14941 | lube chain
 2015-12-05  | 14735 | install & relocate shorai battery
