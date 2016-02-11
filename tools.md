@@ -38,7 +38,7 @@ suggested parts here
 ### tires
 
 - [ ] tubes
-- [ ] tire spoons (3)
+- [x] tire irons (2-3)
 - [ ] patches
 - [ ] glue
 - [ ] pump / air compressor
@@ -54,7 +54,7 @@ suggested parts here
 - [x] rag
 - [ ] spare fuel line
 - [ ] quicksteel / jb weld
-- [ ] 2' electrical wire
+- [x] 2' electrical wire
 - [ ] electrical tape
 - [ ] duct tape
 - [ ] chain tool
