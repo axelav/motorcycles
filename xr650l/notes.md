@@ -4,8 +4,8 @@
 
 - [x] subframe support
 - [x] shorai battery
+- [x] headlight
 - [ ] taillight
-- [ ] headlight
 - [ ] dashboard controls
 - [ ] suspension
 - [ ] front fork brace

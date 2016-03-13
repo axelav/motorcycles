@@ -6,6 +6,8 @@ purchased on **5/17/15** with **12409** miles
 
 date        | miles | tasks
 ------------|-------|---------
+2016-03-02  | 15019 | install new hella headlights
+2016-02-12  | 15019 | install new stator (260 watt)
 2016-02-03  | 15019 | install new turn signals
 2016-02-01  | 15019 | install steel front brake line
             |       | bleed front & rear brake fluid
