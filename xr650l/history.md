@@ -6,6 +6,7 @@ purchased on **5/17/15** with **12409** miles
 
 date        | miles | tasks
 ------------|-------|---------
+2016-04-17  | 15550 | change oil & replace filter
 2016-04-09  | 15234 | replace rear wheel bearings
 2016-04-04  | 15234 | replace front brake pads
 2016-03-02  | 15019 | install new hella headlights
