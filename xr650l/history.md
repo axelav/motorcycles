@@ -6,10 +6,11 @@ purchased on **5/17/15** with **12409** miles
 
 date        | miles | tasks
 ------------|-------|---------
-2016-04-17  | 15550 | change oil & replace filter
+2016-05-07  | 15675 | install XR600R left side panel
+2016-04-16  | 15540 | change oil & replace filter
 2016-04-09  | 15234 | replace rear wheel bearings
 2016-04-04  | 15234 | replace front brake pads
-2016-03-02  | 15019 | install new hella headlights
+2016-03-02  | 15019 | install new hella 500ff headlights
 2016-02-12  | 15019 | install new stator (260 watt)
 2016-02-03  | 15019 | install new turn signals
 2016-02-01  | 15019 | install steel front brake line
