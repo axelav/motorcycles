@@ -6,6 +6,8 @@ purchased on **5/17/15** with **12409** miles
 
 date        | miles | tasks
 ------------|-------|---------
+2016-05-18  | 15806 | replace front tire (irc gp1)
+2016-05-11  | 15702 | lube chain
 2016-05-07  | 15675 | install XR600R left side panel
 2016-04-16  | 15540 | change oil & replace filter
 2016-04-09  | 15234 | replace rear wheel bearings
