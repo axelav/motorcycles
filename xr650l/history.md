@@ -6,6 +6,7 @@ purchased on **5/17/15** with **12409** miles
 
 date        | miles | tasks
 ------------|-------|---------
+2016-09-01  | 16805 | stolen :(
 2016-08-15  | 16805 | lube chain
 2016-06-15  | 16162 | lube chain
 2016-05-20  | 15834 | replace rear tire (irc gp1)
