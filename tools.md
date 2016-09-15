@@ -39,10 +39,10 @@ suggested parts here
 
 - [ ] tubes
 - [x] tire irons (2-3)
-- [ ] patches
-- [ ] glue
+- [x] patches
+- [x] glue
 - [ ] pump / air compressor
-- [ ] soap
+- [x] soap
 
 ### other
 
@@ -56,6 +56,6 @@ suggested parts here
 - [ ] quicksteel / jb weld
 - [x] 2' electrical wire
 - [ ] electrical tape
-- [ ] duct tape
+- [x] duct tape
 - [ ] chain tool
 - [ ] short length of extra chain & master link
