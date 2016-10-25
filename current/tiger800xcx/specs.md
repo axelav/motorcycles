@@ -28,6 +28,8 @@ damping: -1
 
 ### luggage
 
+#### front
+
 preload: -7
 damping: -7
 

@@ -6,6 +6,7 @@ purchased on **08/18/16** with **2** miles
 
 date        | miles | tasks
 ------------|-------|---------
+2016-10-23  |  1900 | clean & wax chain
 2016-09-15  |  1500 | clean & wax chain
 2016-09-04  |  1200 | clean & wax chain
 2016-09-01  |   900 | clean & wax chain
