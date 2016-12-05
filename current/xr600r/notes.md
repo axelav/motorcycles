@@ -4,14 +4,15 @@
 # todo
 
 - [ ] wash frame engine etc
+- [ ] replace throttle lines!
 - [ ] clean carbs
 - [ ] check gaskets
-- [ ] check brake pads and shoes
-- [ ] fix rear brake spring
+- [ ] inspect front brake pads
+- [x] replace rear shoes
+- [x] fix rear brake spring
 - [ ] head and tail lights
 - [ ] bleed brakes
 - [ ] replace brake lines
-- [ ] replace throttle lines
 - [ ] Vermont tag
 - [ ] compression lever
 - [ ] clutch line and lever
@@ -52,4 +53,3 @@ dual sport kit is $500
 
 Jonah
 110 Mill St Liberty NY
-
