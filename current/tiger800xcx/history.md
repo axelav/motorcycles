@@ -2,13 +2,13 @@
 
 purchased on **08/18/16** with **2** miles
 
-## maintainence
+## maintenance
+
+last chain maintenance: 2300 mi
 
 date        | miles | tasks
 ------------|-------|---------
-2016-10-23  |  1900 | clean & wax chain
-2016-09-15  |  1500 | clean & wax chain
-2016-09-04  |  1200 | clean & wax chain
-2016-09-01  |   900 | clean & wax chain
-2016-08-29  |   548 | first service; oil change, etc.
+2016-11-02  |  2100 | install heated grips (service by ducati-triumph nyc)
+2016-08-29  |   548 | first service; oil change, etc. (service by national powersports)
+2016-08-23  |   300 | install altrider rear rack
 2016-08-18  |     2 | purchase :)

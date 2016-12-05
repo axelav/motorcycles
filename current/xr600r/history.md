@@ -2,7 +2,7 @@
 
 purchased 10/09/16 for $1750
 
-## maintainence
+## maintenance
 
 date        | miles | tasks
 ------------|-------|---------

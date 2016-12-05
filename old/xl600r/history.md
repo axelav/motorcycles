@@ -3,7 +3,7 @@
 purchased on **8/8/14** with **2574** miles
 
 
-## maintainence
+## maintenance
 
 date        | miles | tasks
 ------------|-------|---------
@@ -16,7 +16,7 @@ date        | miles | tasks
 2014-09-07  | 2650  | change oil & replace filter
 
 
-## pre-ownership maintainence
+## pre-ownership maintenance
 
 date        | miles | tasks
 ------------|-------|---------

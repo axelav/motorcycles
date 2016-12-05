@@ -2,7 +2,7 @@
 
 purchased on **5/17/15** with **12409** miles
 
-## maintainence
+## maintenance
 
 date        | miles | tasks
 ------------|-------|---------
@@ -45,7 +45,7 @@ date        | miles | tasks
             |       | fill rear brake fluid
 2015-07-01  | 12700 | install stock linkage (1996 model)
 
-## pre-ownership maintainence
+## pre-ownership maintenance
 
 date        | miles | tasks
 ------------|-------|---------
