@@ -1,10 +1,9 @@
 # ’85 XR600R
 
-
 # todo
 
 - [ ] wash frame engine etc
-- [ ] replace throttle lines!
+- [x] replace throttle lines!
 - [ ] clean carbs
 - [ ] check gaskets
 - [ ] new clutch seal - I think that's where most of the oil is leaking from
