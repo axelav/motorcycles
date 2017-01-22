@@ -2,50 +2,15 @@
 
 ## tires (OEM recommendation)
 
-### road
-
-F: 36 psi / 2.5 bar
-R: 42 psi / 2.9 bar
-
-### offroad
-
-F: 22 psi / 1.5 bar
-R: 22 psi / 1.5 bar
+tire      | front             | rear
+----------|-------------------|------------------
+road      | 36 psi / 2.5 bar  | 42 psi / 2.9 bar
+offroad   | 22 psi / 1.5 bar  | 22 psi / 1.5 bar
 
 ## suspension (personal settings)
 
-### solo
-
-#### front
-
-preload: -9
-damping: -9
-
-#### rear
-
-preload: -7
-damping: -1
-
-### luggage
-
-#### front
-
-preload: -7
-damping: -7
-
-#### rear
-
-preload: -3.5
-damping: -0.75
-
-### passenger & luggage
-
-#### front
-
-preload: -5
-damping: -5
-
-#### rear
-
-preload: fully clockwise
-damping: -0.25
+riders              | front preload   | front damping   | rear preload    | rear damping
+--------------------|-----------------|-----------------|-----------------|--------------
+solo                | -9              | -9              | -7              | -1
+luggage             | -7              | -7              | -3.5            | -0.75
+passenger & luggage | -5              | -5              | fully clockwise | -0.25
