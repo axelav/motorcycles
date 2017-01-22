@@ -4,13 +4,13 @@
 
 ### road
 
-F: 2.5 bar
-R: 2.9 bar
+F: 36 psi / 2.5 bar
+R: 42 psi / 2.9 bar
 
 ### offroad
 
-F: 1.5 bar
-R: 1.5 bar
+F: 22 psi / 1.5 bar
+R: 22 psi / 1.5 bar
 
 ## suspension (personal settings)
 
