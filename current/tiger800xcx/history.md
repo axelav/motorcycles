@@ -4,7 +4,7 @@ purchased on **08/18/16** with **2** miles
 
 ## maintenance
 
-last chain maintenance: 2300 mi
+last chain maintenance: 2650 mi
 
 date        | miles | tasks
 ------------|-------|---------
