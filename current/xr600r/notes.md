@@ -3,20 +3,20 @@
 # todo
 
 - [ ] wash frame engine etc
-- [x] replace throttle lines!
-- [ ] clean carbs
-- [ ] check gaskets
+- [ ] clean throttle, clutch & brake cables
 - [ ] new clutch seal - I think that's where most of the oil is leaking from
 - [ ] inspect front brake pads
+- [ ] bleed brakes
+- [ ] clean carbs
+- [ ] secure exhaust & fix leaks
+- [ ] check gaskets
 - [x] replace rear shoes
 - [x] fix rear brake spring
 - [ ] head and tail lights
-- [ ] bleed brakes
 - [ ] replace brake lines
 - [ ] Vermont tag
 - [ ] compression lever
 - [ ] clutch line and lever
-- [ ] secure exhaust & fix leaks
 
 ## from ad
 
