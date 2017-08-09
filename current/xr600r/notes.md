@@ -1,8 +1,8 @@
-# ’85 XR600R
+# ’86 XR600R
 
 # todo
 
-- [ ] wash frame engine etc
+- [x] wash frame engine etc
 - [ ] clean throttle, clutch & brake cables
 - [ ] new clutch seal - I think that's where most of the oil is leaking from
 - [ ] inspect front brake pads
