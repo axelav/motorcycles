@@ -8,6 +8,7 @@ chain cleaned & waxed every ~250 mi
 
 date        | miles | tasks
 ------------|-------|---------
+2017-09-23  |  6830 | install bar risers
 2017-09-03  |  6321 | change oil & install new filter
 2017-08-09  |  5380 | install bark busters
 2017-08-08  |  5370 | replace tires (Mitas E-07 Dakar)
