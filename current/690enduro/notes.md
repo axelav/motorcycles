@@ -1,0 +1,48 @@
+# notes
+
+## listing
+
+Located in Brooklyn, NY. I'm asking $7500. I've had a great time with this bike
+and it's everything I expected and more. If I could only have one bike, it would
+be this one. I put half of the 16,000 miles on it. Last year I was riding in
+Colorado and I broke a piston ring. I decided to replace the top end with a
+lower mileage one and also installed new piston/rings/gaskets. I also upgraded
+the rocker arms to the newest versions. The front and rear suspension were
+rebuilt 500 miles ago by Enduro Spec in CO. The rear was re-sprung for 210lbs
+(rider+gear) and the front was rebuilt with heavy duty seals. Valves were just
+adjusted and oil/filters/screens renewed. All fluids are Motorex. The cooling
+system was just flushed and renewed with engine ice. This bike is very clean,
+runs great, and has no issues.
+
+Upgrades:
+
+- Wings Exhaust
+- Rade Auxillary fuel tank
+- Pod foam filter with pre filter
+- Seat Concepts low seat
+- Pivot Pegs
+- Touratech Rear rack
+- Wolfman pannier racks with passenger pegs
+- Rally Raid radiator guard
+- Rally Raid upper and lower tank mounts
+- CJ Designs fuel cap
+- Flatland racing skid plate
+- Kouba lowering link (5/8")
+- BRP Sub mount with Scotts Steering Stabilizer
+- Enduro Engineering Hand Guards
+- Heated Grips
+- G2 Quick Throttle
+- Fuze Block
+- USB Outlet
+- Auxillary fan switch
+- Double Take Mirrors with RAM Mounts
+- Accessory windscreen
+- New rear rotor
+- New clutch master cylinder
+- MT21 front with 50% tread
+- D606 with 70% tread
+- Extra rocker arms
+- Extra levers
+- Factory manual and tool kit
+
+That's most of it. Feel free to ask questions.
