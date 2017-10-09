@@ -1,5 +1,20 @@
 # notes
 
+## advrider threads
+
+- [Idiot's Guide](http://advrider.com/index.php?threads/ktm-690-efi-2008-2013-idiots-guide.931664/)
+- [690 Thread Index](http://advrider.com/index.php?threads/new-ktm-690-thread-index.723107/#post-16802212)
+
+## articles
+
+- [Adventurizing the KTM 690 Enduro R](http://therollinghobo.com/adventurizing-the-ktm-690-enduro-r)
+- [Ultimate KTM 690 Enduro Build](http://www.advpulse.com/adv-bikes/ultimate-ktm-690-enduro-build/)
+
+## gear
+
+- [Adventure Spec pannier bags](http://www.adventure-spec.com/default/adventure-spec-magadan-panniers-mk2-10745.html)
+- [Rally Raid](http://www.rally-raidproducts.co.uk/KTM-690-Enduro-R-SMC)
+
 ## listing
 
 Located in Brooklyn, NY. I'm asking $7500. I've had a great time with this bike
@@ -46,3 +61,5 @@ Upgrades:
 - Factory manual and tool kit
 
 That's most of it. Feel free to ask questions.
+
+[listing](http://advrider.com/index.php?threads/2010-ktm-690-enduro-r.1259399/)
