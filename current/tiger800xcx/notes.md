@@ -10,27 +10,13 @@
 > nears the end of its stroke. Adding 20cc per leg worked wonders, to the point
 > that we’re reconsidering the need for stiffer springs. [source][0]
 
-## settings
-
-
-## shops
-
-
-## threads
-
-
-## builds
-
-
 ## mods/guides
 
 [winter brake maintenence][1]
 
-## videos
-
-
 ## parts
 
+[foot pegs](https://fastwayperformance.com/footpeg-adventure-8912.html)
 [windscreen][2]
 
 
