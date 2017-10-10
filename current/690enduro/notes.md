@@ -10,6 +10,10 @@
 - [Adventurizing the KTM 690 Enduro R](http://therollinghobo.com/adventurizing-the-ktm-690-enduro-r)
 - [Ultimate KTM 690 Enduro Build](http://www.advpulse.com/adv-bikes/ultimate-ktm-690-enduro-build/)
 
+## parts
+
+- [fuel filter](https://ktmtwins.com/products/zipty-quick-2)
+
 ## gear
 
 - [Adventure Spec pannier bags](http://www.adventure-spec.com/default/adventure-spec-magadan-panniers-mk2-10745.html)
