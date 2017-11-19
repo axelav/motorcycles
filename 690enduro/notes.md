@@ -18,6 +18,10 @@
 - [Ultimate KTM 690 Enduro Build](http://www.advpulse.com/adv-bikes/ultimate-ktm-690-enduro-build/)
 - [RTW with Noah's 690s](http://rtwwithnoah.blogspot.com/p/blog-page.html)
 
+## parts
+
+- [fuel filter](https://ktmtwins.com/products/zipty-quick-2)
+
 ## gear
 
 - [Tractive Rallye rear shock](http://www.rally-raidproducts.co.uk/KTM-690-Enduro-R-SMC/ktm-690-suspension-enduro/tractive-ktm-690-enduro-rear-shock-rallye)
