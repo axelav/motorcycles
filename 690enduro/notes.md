@@ -18,17 +18,14 @@
 - [Ultimate KTM 690 Enduro Build](http://www.advpulse.com/adv-bikes/ultimate-ktm-690-enduro-build/)
 - [RTW with Noah's 690s](http://rtwwithnoah.blogspot.com/p/blog-page.html)
 
-## parts
-
-- [fuel filter](https://ktmtwins.com/products/zipty-quick-2)
-
-## gear
+## gear/parts
 
 - [Tractive Rallye rear shock](http://www.rally-raidproducts.co.uk/KTM-690-Enduro-R-SMC/ktm-690-suspension-enduro/tractive-ktm-690-enduro-rear-shock-rallye)
 - [Seat Concepts tall seat](https://seat-concepts.myshopify.com/collections/ktm/products/ktm-2008-16-690-smc-enduro-r-tall)
 - [CA Cycleworks fuel pump](http://ca-cycleworks.com/ca-cycleworks-products/fuel-pumps/ktm-husqvarna-husaberg-fuel-pumps/fp-hus)
 - [Profill fuel filter](http://www.profill-australia.com/e-store/STORE.html)
 
+- [quick disconnect fuel filter](https://ktmtwins.com/products/zipty-quick-2)
 - [Adventure Spec pannier bags](http://www.adventure-spec.com/default/adventure-spec-magadan-panniers-mk2-10745.html)
 - [Rally Raid](http://www.rally-raidproducts.co.uk/KTM-690-Enduro-R-SMC)
 - [Rade Rally Fairing](http://www.radegarage.com/parts/ktm-690-fairing-kit/)
