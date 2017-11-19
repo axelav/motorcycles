@@ -4,8 +4,9 @@ maintainence histories, notes & an [issue tracker](https://github.com/axelav/mot
 
 ## current
 
-- [2016 Triumph Tiger XCx](current/tiger800xcx)
-- [1986 Honda XR600R](current/xr600r)
+- [2010 KTM 690 Enduro R](690enduro)
+- [2016 Triumph Tiger XCx](tiger800xcx)
+- [1986 Honda XR600R](xr600r)
 
 ## previous
 
