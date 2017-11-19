@@ -4,8 +4,6 @@ purchased on **08/18/16** with **2** miles
 
 ## maintenance
 
-chain cleaned & waxed every ~250 mi
-
 date        | miles | tasks
 ------------|-------|---------
 2017-09-23  |  6830 | install bar risers

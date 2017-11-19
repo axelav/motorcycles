@@ -24,7 +24,6 @@
 - [Seat Concepts tall seat](https://seat-concepts.myshopify.com/collections/ktm/products/ktm-2008-16-690-smc-enduro-r-tall)
 - [CA Cycleworks fuel pump](http://ca-cycleworks.com/ca-cycleworks-products/fuel-pumps/ktm-husqvarna-husaberg-fuel-pumps/fp-hus)
 - [Profill fuel filter](http://www.profill-australia.com/e-store/STORE.html)
-
 - [quick disconnect fuel filter](https://ktmtwins.com/products/zipty-quick-2)
 - [Adventure Spec pannier bags](http://www.adventure-spec.com/default/adventure-spec-magadan-panniers-mk2-10745.html)
 - [Rally Raid](http://www.rally-raidproducts.co.uk/KTM-690-Enduro-R-SMC)
@@ -77,5 +76,3 @@ Upgrades:
 - Factory manual and tool kit
 
 That's most of it. Feel free to ask questions.
-
-[listing](http://advrider.com/index.php?threads/2010-ktm-690-enduro-r.1259399/)
