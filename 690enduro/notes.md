@@ -65,6 +65,9 @@ Continuing that thought - when you check your valve clearances look for:
 - [KTM 690 EFI 2008 - 2013 : Idiots Guide](http://advrider.com/index.php?threads/ktm-690-efi-2008-2013-idiots-guide.931664/)
 - [690 Thread Index](http://advrider.com/index.php?threads/new-ktm-690-thread-index.723107/#post-16802212)
 - [KTM690 WUNDERFEST](http://advrider.com/index.php?threads/new-and-improved-ktm690-wunderfest.722987/)
+- [KTM 690 E/R Thread Index](http://advrider.com/index.php?threads/ktm-690-e-r-thread-index.992663/#post-25559829)
+- [690 Thread Index](http://advrider.com/index.php?threads/new-ktm-690-thread-index.723107/#post-16802212)
+- [Idiot's Guide](http://advrider.com/index.php?threads/ktm-690-efi-2008-2013-idiots-guide.931664/)
 
 ## knowledge/how-to
 
@@ -72,6 +75,11 @@ Continuing that thought - when you check your valve clearances look for:
 - [Adventurizing the KTM 690 Enduro R](http://therollinghobo.com/adventurizing-the-ktm-690-enduro-r)
 - [Ultimate KTM 690 Enduro Build](http://www.advpulse.com/adv-bikes/ultimate-ktm-690-enduro-build/)
 - [RTW with Noah's 690s](http://rtwwithnoah.blogspot.com/p/blog-page.html)
+- [Big Dog](http://bigdogadventures.com/1KTM690.htm)
+
+## long-term reports
+
+- [My Original KTM 690 Rally Raid Build and History So Far](http://advrider.com/index.php?threads/my-original-ktm-690-rally-raid-build-and-history-so-far.1175453/) lots of great info & weird troubleshooting ideas here
 
 ## gear/parts
 
@@ -79,7 +87,7 @@ Continuing that thought - when you check your valve clearances look for:
 - [Tractive Rallye rear shock](http://www.rally-raidproducts.co.uk/KTM-690-Enduro-R-SMC/ktm-690-suspension-enduro/tractive-ktm-690-enduro-rear-shock-rallye)
 - [quick disconnect fuel filter](https://ktmtwins.com/products/zipty-quick-2)
 
-## [original listing](http://advrider.com/index.php?threads/2010-ktm-690-enduro-r.1259399/)
+## [original listing](http://advrider.com/index.php?threads/2010-ktm-690-enduro-r.1259399/) (_no longer available_)
 
 Located in Brooklyn, NY. I'm asking $7500. I've had a great time with this bike
 and it's everything I expected and more. If I could only have one bike, it would

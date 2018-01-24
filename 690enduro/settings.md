@@ -36,6 +36,13 @@ total travel 275mm
 | static | 25mm    |
 | riding | 70-80mm |
 
+## steering damper
+
+| knob       | position                                                                        |
+| ---------- | ------------------------------------------------------------------------------- |
+| high speed | 1 turn out from fully clockwise                                                 |
+| low speed  | depends on terrain but starting point is 1-2 turns from fully counter-clockwise |
+
 ## fuses
 
 1.  (10A) ignition, instrument
@@ -63,3 +70,5 @@ total travel 275mm
 
 [1]: https://www.bikebandit.com/2010-ktm-690-enduro-r-usa-parts/s/m140443
 [2]: https://advrider.com/f/threads/pine-barrens-rides.1130767/page-85#post-35470313
+
+[source](https://www.perunmoto.com/blogs/blog/scotts-steering-stabilizer-and-brp-rubber-mounted-sub-mount-for-ktm-690-enduro)
