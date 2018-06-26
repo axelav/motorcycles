@@ -1,13 +1,76 @@
 # notes
 
+## valves
+
+A few thoughts:
+
+- A small amount of side play is normal for the rockers.
+- The clearances will most definitely change with new rockers.
+- You either buy a kit (as mentioned above) and then swap shims as needed, or you take it all apart, figure out the exact sizes you need and then swap yours for new ones at the dealer (measure accurately or you get to do another trip...)
+- Check the valves when the engine is dead-cold and with the all the rocker arm bolts torqued to spec.
+- Use a torque wrench during reassembly...
+- Exhaust valves generally get tighter as the engine is run-in.
+- Intake valves should do the same but at a lesser rate.
+- If you see things starting to loosen up, then you most likely are having a bearing issue and a new rocker will be required - along with new shims, possibly smaller than what is currently installed. So that leads to carrying a micrometer unless you are extremely well organized about what shim you have installed in each location and all your spare shims marked (and packed in a way that won't allow the markings to be rubbed off).
+- Walk through the process of calculating new shim sizes before you're in some hut in the middle of no where.
+
+[source](https://advrider.com/index.php?threads/ktm-690-first-valve-check.1090121/#post-27505302)
+
+Continuing that thought - when you check your valve clearances look for:
+
+- any movement of the pin in the bearing
+- increased radial and axial play in the bearing
+- galling, marks, or a noticeable change in the surface finish of the bearing and/or cam lobe
+- rapid change in clearances of one valve
+- difficulty turning over the engine when starting (can be a sign of tight valves)
+- changes in the sound of the engine while idling or accelerating
+
+[source](http://advrider.com/index.php?threads/new-and-improved-ktm690-wunderfest.722987/page-1298#post-28909323)
+
+## Fuel Filter info
+
+Hi Grace, after the pump it’s advisable to use an FI rated filter. I use the OEM filter which is a Mahle KL15. The KTM part number is 81207090000, but that is for a filter kit including all sorts of unnecessary things for a pretty high price, so maybe have a look on eBay? I replaced the fuel line quick connector beneath the seat with the filter. Is that where yours is too? It’s handy to have a transparent filter to monitor its condition. When the one under the seat seat starts to get grey, the one after the fuel pump will be really dirty. I prefer single use filters over washable e.g. Golan microfilters or equivalent, but that’s just a matter of personal taste. Best of luck!
+
+[source](http://therollinghobo.com/adventurizing-the-ktm-690-enduro-r)
+
+## spring replacement videos
+
+### rear
+
+https://www.youtube.com/watch?v=RduPbQ8vbLg
+https://www.youtube.com/watch?v=wHEemEo1uok
+https://www.youtube.com/watch?v=kEtDUvcFR9g
+
+### front
+
+changing springs https://www.youtube.com/watch?v=aXZE_nK8YMI
+putting oil in https://www.youtube.com/watch?v=glG3gUjxjEU
+
+## service intervals
+
+| task              | 3k  | 6k  |
+| ----------------- | --- | --- |
+| oil & filters     | X   | X   |
+| check valves      | X   | X   |
+| change air filter | X   | X   |
+| bleed fork legs   | X   | X   |
+| spark plug        |     | X   |
+| brake fluid       |     | X   |
+
+## LED aux lights
+
+- [advmonster model 60](http://stores.advmonster.com/model-60-led-off-road-flood-light/)
+
 ## how to
 
+- [better value clearance video](https://www.youtube.com/watch?v=fBdUP_SUxdA)
 - [check valve clearance](https://www.youtube.com/watch?v=Tt24fL_OW44)
 - [clean fuel injector in the field](https://www.youtube.com/watch?v=PU8dVC4t5vU)
 
 ## advrider threads
 
-- [Idiot's Guide](http://advrider.com/index.php?threads/ktm-690-efi-2008-2013-idiots-guide.931664/)
+- [KTM 690 Troubleshooting Guide](http://advrider.com/index.php?threads/ktm-690-troubleshooting-guide.1029084/)
+- [KTM 690 EFI 2008 - 2013 : Idiots Guide](http://advrider.com/index.php?threads/ktm-690-efi-2008-2013-idiots-guide.931664/)
 - [690 Thread Index](http://advrider.com/index.php?threads/new-ktm-690-thread-index.723107/#post-16802212)
 - [KTM690 WUNDERFEST](http://advrider.com/index.php?threads/new-and-improved-ktm690-wunderfest.722987/)
 
@@ -20,15 +83,12 @@
 
 ## gear/parts
 
+- [Manual Cam Chain Tensioner](https://ktmtwins.com/products/ktm-tensioner?variant=23677440003)
 - [Tractive Rallye rear shock](http://www.rally-raidproducts.co.uk/KTM-690-Enduro-R-SMC/ktm-690-suspension-enduro/tractive-ktm-690-enduro-rear-shock-rallye)
-- [Seat Concepts tall seat](https://seat-concepts.myshopify.com/collections/ktm/products/ktm-2008-16-690-smc-enduro-r-tall)
 - [CA Cycleworks fuel pump](http://ca-cycleworks.com/ca-cycleworks-products/fuel-pumps/ktm-husqvarna-husaberg-fuel-pumps/fp-hus)
-- [Profill fuel filter](http://www.profill-australia.com/e-store/STORE.html)
 - [quick disconnect fuel filter](https://ktmtwins.com/products/zipty-quick-2)
-- [Adventure Spec pannier bags](http://www.adventure-spec.com/default/adventure-spec-magadan-panniers-mk2-10745.html)
 - [Rally Raid](http://www.rally-raidproducts.co.uk/KTM-690-Enduro-R-SMC)
 - [Rade Rally Fairing](http://www.radegarage.com/parts/ktm-690-fairing-kit/)
-
 
 ## [original listing](http://advrider.com/index.php?threads/2010-ktm-690-enduro-r.1259399/)
 

@@ -2,8 +2,7 @@
 
 ## tool kit
 
-good [overview](http://www.advrider.com/forums/showthread.php?t=262998) of
-suggested parts here
+good [overview](http://www.advrider.com/forums/showthread.php?t=262998) of suggested parts here
 
 ### wrenches
 
@@ -52,10 +51,10 @@ suggested parts here
 - [x] pliers
 - [x] large zip ties
 - [x] rag
-- [ ] spare fuel line
+- [x] spare fuel line
 - [x] quicksteel / jb weld
 - [x] 2' electrical wire
 - [x] electrical tape
 - [x] duct tape
 - [x] chain tool
-- [ ] short length of extra chain & master link
+- [x] short length of extra chain & master link
