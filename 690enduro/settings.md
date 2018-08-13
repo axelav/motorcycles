@@ -8,11 +8,12 @@ full synthetic
 
 ## tires
 
-| surface | front  | rear   |
-| ------- | ------ | ------ |
-| offroad | 22 psi | 22 psi |
-| road    | 26 psi | 26 psi |
-| loaded  | 29 psi | 32 psi |
+| surface                | front  | rear   |
+| ---------------------- | ------ | ------ |
+| Jack's recommendations | 21 psi | 18 psi |
+| offroad                | 22 psi | 22 psi |
+| road                   | 26 psi | 26 psi |
+| loaded                 | 29 psi | 32 psi |
 
 ## suspension
 
@@ -23,6 +24,15 @@ full synthetic
 | shock compression (low)  | 10 clicks     | 15 clicks |
 | shock compression (high) | 1 turn        | 1.5 turns |
 | shock rebound            | 10 clicks     | 15 clicks |
+
+### sag
+
+total travel 275mm
+
+| type   | sag     |
+| ------ | ------- |
+| static | 25mm    |
+| riding | 70-80mm |
 
 ## fuses
 

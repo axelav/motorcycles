@@ -1,5 +1,29 @@
 # notes
 
+## service intervals
+
+| task              | 3k  | 6k  |
+| ----------------- | --- | --- |
+| oil & filters     | X   | X   |
+| check valves      | X   | X   |
+| change air filter | X   | X   |
+| bleed fork legs   | X   | X   |
+| spark plug        |     | X   |
+| brake fluid       |     | X   |
+
+## suspension
+
+You do not need to take the shock off to adjust. Loosen the top tank bolts & remove the bottom. Lift up the tank. Spray the shock threads with WD40 before moving the adjuster ring. The threads gald easy.
+[source](http://690enduro.createaforum.com/suspension/tell-me-about-lowering-this-beast/msg1232/#msg1232)
+
+## sag
+
+- [set sag by yourself](https://www.southbayriders.com/forums/threads/159177/)
+- [setting sag & adjusting ride](http://690enduro.createaforum.com/suspension/setting-sag-and-adjusting-ride/)
+
+static sag (bike only) should be 10% +/- of travel
+riding sag (rider & gear on bike) should be 30% +/- of travel
+
 ## valves
 
 A few thoughts:
@@ -27,40 +51,6 @@ Continuing that thought - when you check your valve clearances look for:
 
 [source](http://advrider.com/index.php?threads/new-and-improved-ktm690-wunderfest.722987/page-1298#post-28909323)
 
-## Fuel Filter info
-
-Hi Grace, after the pump it’s advisable to use an FI rated filter. I use the OEM filter which is a Mahle KL15. The KTM part number is 81207090000, but that is for a filter kit including all sorts of unnecessary things for a pretty high price, so maybe have a look on eBay? I replaced the fuel line quick connector beneath the seat with the filter. Is that where yours is too? It’s handy to have a transparent filter to monitor its condition. When the one under the seat seat starts to get grey, the one after the fuel pump will be really dirty. I prefer single use filters over washable e.g. Golan microfilters or equivalent, but that’s just a matter of personal taste. Best of luck!
-
-[source](http://therollinghobo.com/adventurizing-the-ktm-690-enduro-r)
-
-## spring replacement videos
-
-### rear
-
-https://www.youtube.com/watch?v=RduPbQ8vbLg
-https://www.youtube.com/watch?v=wHEemEo1uok
-https://www.youtube.com/watch?v=kEtDUvcFR9g
-
-### front
-
-changing springs https://www.youtube.com/watch?v=aXZE_nK8YMI
-putting oil in https://www.youtube.com/watch?v=glG3gUjxjEU
-
-## service intervals
-
-| task              | 3k  | 6k  |
-| ----------------- | --- | --- |
-| oil & filters     | X   | X   |
-| check valves      | X   | X   |
-| change air filter | X   | X   |
-| bleed fork legs   | X   | X   |
-| spark plug        |     | X   |
-| brake fluid       |     | X   |
-
-## LED aux lights
-
-- [advmonster model 60](http://stores.advmonster.com/model-60-led-off-road-flood-light/)
-
 ## how to
 
 - [better value clearance video](https://www.youtube.com/watch?v=fBdUP_SUxdA)
@@ -85,10 +75,7 @@ putting oil in https://www.youtube.com/watch?v=glG3gUjxjEU
 
 - [Manual Cam Chain Tensioner](https://ktmtwins.com/products/ktm-tensioner?variant=23677440003)
 - [Tractive Rallye rear shock](http://www.rally-raidproducts.co.uk/KTM-690-Enduro-R-SMC/ktm-690-suspension-enduro/tractive-ktm-690-enduro-rear-shock-rallye)
-- [CA Cycleworks fuel pump](http://ca-cycleworks.com/ca-cycleworks-products/fuel-pumps/ktm-husqvarna-husaberg-fuel-pumps/fp-hus)
 - [quick disconnect fuel filter](https://ktmtwins.com/products/zipty-quick-2)
-- [Rally Raid](http://www.rally-raidproducts.co.uk/KTM-690-Enduro-R-SMC)
-- [Rade Rally Fairing](http://www.radegarage.com/parts/ktm-690-fairing-kit/)
 
 ## [original listing](http://advrider.com/index.php?threads/2010-ktm-690-enduro-r.1259399/)
 
