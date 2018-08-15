@@ -56,6 +56,8 @@ Continuing that thought - when you check your valve clearances look for:
 - [better value clearance video](https://www.youtube.com/watch?v=fBdUP_SUxdA)
 - [check valve clearance](https://www.youtube.com/watch?v=Tt24fL_OW44)
 - [clean fuel injector in the field](https://www.youtube.com/watch?v=PU8dVC4t5vU)
+- [rebuild clutch master cylinder](http://www.ktmsmt.com/viewtopic.php?t=6578)
+- [The 690 Shed](https://www.youtube.com/user/NORDIKBIKES/videos): great video about checking rocker arms
 
 ## advrider threads
 
