@@ -8,14 +8,16 @@ full synthetic
 
 ## tires
 
-| surface                | front  | rear   |
-| ---------------------- | ------ | ------ |
-| Jack's recommendations | 21 psi | 18 psi |
-| offroad                | 22 psi | 22 psi |
-| road                   | 26 psi | 26 psi |
-| loaded                 | 29 psi | 32 psi |
+| surface                          | front  | rear   |
+| -------------------------------- | ------ | ------ |
+| [jacksplash (PB, on/offroad)][2] | 21 psi | 18 psi |
+| offroad                          | 22 psi | 22 psi |
+| road                             | 26 psi | 26 psi |
+| loaded                           | 29 psi | 32 psi |
 
 ## suspension
+
+preload: 20mm (factory)
 
 | situation                | sport/payload | street    |
 | ------------------------ | ------------- | --------- |
@@ -46,3 +48,18 @@ total travel 275mm
 8.  (10A) accessories (switched)
 9.  (10A) accessories (battery)
 10. not used
+
+# [OEM specs][1]
+
+- Front Tire: 90/90-21
+- Front Rim: 21
+- Rear Tire: 140/80-18
+- Rear Rim: 18
+- Stock Chain: 520 x 116
+- Front Sprocket: 16
+- Rear Sprocket: 45
+- Battery: YTZ10S
+- Spark Plug: LKAR8AI-9
+
+[1]: https://www.bikebandit.com/2010-ktm-690-enduro-r-usa-parts/s/m140443
+[2]: https://advrider.com/f/threads/pine-barrens-rides.1130767/page-85#post-35470313
