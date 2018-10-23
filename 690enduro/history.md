@@ -6,9 +6,8 @@ Purchased on **10/04/17** with **16850** miles for $6900
 
 | date       | miles | tasks                                                                                                            |
 | ---------- | ----- | ---------------------------------------------------------------------------------------------------------------- |
-| 2018-10-14 | 26112 | install Rally Raid manual cam chain tensioner                                                                    |
-| 2018-10-14 | 26112 | check valve clearances; inspect rocker arms and cam lobes                                                        |
-| 2018-10-14 | 26112 | install D606 130/90 rear and 216MX 90/90 front tires                                                             |
+| 2018-10-19 | 26112 | install D606 130/90 rear and 216MX 90/90 front tires; install side stand switch                                  |
+| 2018-10-14 | 26112 | check valve clearances; inspect rocker arms and cam lobes; install Rally Raid manual cam chain tensioner         |
 | 2018-10-03 | 26112 | install EBC rear brake pads                                                                                      |
 | 2018-09-14 | 25345 | install CA Cycleworks fuel pump and NAPA 3011 fuel filter                                                        |
 | 2018-09-13 | 24930 | change oil, clean oil filters and screens                                                                        |
