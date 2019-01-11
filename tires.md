@@ -1,0 +1,30 @@
+# tires
+
+- [Dunlop D908 Rally Raid][4] or from [Bikebandit][7]
+- [Michelin Desert Race][8]
+
+## front
+
+- [Bridgestone M59 80/100][0]
+- [Shinko 216MX 90/90 or 90/100][1]
+
+## rear
+
+- Dunlop D606
+- [Shinko 216MX 140/80][2]
+- [Motoz Tractionator Desert H/T 130/90][5]
+- [Motoz Tractionator Enduro S/T 130/90][6]
+
+## videos
+
+- [How To Change A Motorcycle Tire][3]
+
+[0]: https://slavensracing.com/shop/m59-front-tire-bridgestone/
+[1]: https://slavensracing.com/shop/shinko-216-mx-front-tires/?attribute_tire-size=90%2F90-21
+[2]: https://slavensracing.com/shop/216-mx-offroad-rear-tires-shinko/?attribute_tire-size=140%2F80-18+MX+Enduro
+[3]: https://www.youtube.com/watch?v=m3gC2__Rxi0
+[4]: http://tiresunlimited.com/ALL%20TIRES/Dunlop/dunlop_d908.htm
+[5]: https://slavensracing.com/shop/tractionator-desert-ht-tires-motoz/
+[6]: https://slavensracing.com/shop/tractionator-enduro-st-tires-by-motoz/
+[7]: https://www.bikebandit.com/tires-tubes/motorcycle-tires/dunlop-d908-rally-raid-enduro-motorcycle-tire/p/3486
+[8]: https://www.rockymountainatvmc.com/p/742/66584/Michelin-Desert-Race-Rear-Tire

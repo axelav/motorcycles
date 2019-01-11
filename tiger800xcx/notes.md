@@ -4,7 +4,7 @@
 
 > Our only other immediate complaint concerned the fork, which in stock trim
 > bottomed under even moderate braking. Stiffer fork springs would surely solve
-> this problem, and WP will be happy to sell you a set for $120. But first we
+> this problem, and WP will be happy to sell you a set for \$120. But first we
 > tried the cheap-and-easy fix: raising the oil level to reduce the volume of
 > air in the fork, thus creating a more progressive “air spring” as the fork
 > nears the end of its stroke. Adding 20cc per leg worked wonders, to the point
@@ -18,7 +18,6 @@
 
 [foot pegs](https://fastwayperformance.com/footpeg-adventure-8912.html)
 [windscreen][2]
-
 
 [0]: http://www.cycleworld.com/2016-triumph-tiger-800-xcx-adventure-bike-long-term-test-update#page-2
 [1]: https://www.youtube.com/watch?v=iHeEw2t_ETM

@@ -1,28 +1,65 @@
 # notes
 
+## suspension work
+
+> Looks like Konflict, Motolabs, and Super Plush have 690-specific suspension commentary on their websites.
+> https://advrider.com/f/threads/the-ktm-690-enduro-thread.1048049/page-426#post-36742863
+
+> A good question to ask is "Can I send my forks/shock back to you for revalving if it isn't right for me".
+> https://advrider.com/f/threads/the-ktm-690-enduro-thread.1048049/page-426#post-36743926
+
+## [shim calculator](https://www.dropbox.com/s/kpylr0p31jzt3xu/shim_calculator_DHM.xls?dl=0)
+
+## [sprouty115 advice](https://advrider.com/f/threads/the-ktm-690-enduro-thread.1048049/page-420#post-36642085)
+
+> I'll only add to the good advice you got from @renogeorge and @BigWally that you should pull the battery and tray and inspect the wiring harness for any sign of abrasion. It was a known issue for a lot of years.
+>
+> As for the slave cylinder, it used to be a common recommendation to replace the stock unit with an Oberon (and I did), but I'm honestly not sure it was necessary.
+>
+> I also use the Scott's stainless steel filters and have had no issues with them.
+>
+> Other than that, just keeping an eye on all the things listed in the manual and actually doing a real inspection and performing of all the maintenance items will keep the bike rolling for a long time.
+>
+> Basically, don't just change the oil, check the valves, and clean the air filter - go over the entire bike and look at the things you know you should do but somehow keep putting off, e.g. change the fork oil, grease the suspension linkages, disconnect all the sensor connectors and clean with contact cleaner, clean all the ground locations, spoke tension, wheel bearing looseness, rim run-out, flush all fluids: brake, clutch, coolant - I could go on, but I'm sure you get it...
+>
+> Btw, I only know @darren70 from this site, but his advice always struck me as solid. And he seems like a no-nonsense kind of guy - good to have him in your corner.
+
+## radiator fan switch
+
+A kind stranger sent me some instructions to wiring up a fan switch:
+
+> The fan is switched on with a ground; as in the temp sensor at the radiator just completes the ground to the fan to make it run.
+>
+> So all you need to do is wire an external switch that completes the ground an additional way. You can butt in (strip and solder or Posi-tap) the switch anywhere on the ground wire of the fan on the one lead of the switch then run the other lead of the switch to the frame (the ground). Of course, it only runs when the ignition key is turned on and the fan has power (+). And the thermo switch at the radiator can still turn the fan as it does from the factory. All my KTM's have been wired this way.
+>
+> [source](https://advrider.com/f/conversations/manual-fan-switch.6874081/#message-8458236)
+
+## SAS/canister removal
+
+- [Rottweiler kit](http://www.rottweilerperformance.com/sas-canister-removal-kit-690-enduro-08-13/)
+- [emissions overview video](https://www.youtube.com/watch?v=MiTcjSWy8D0&app=desktop)
+- [advrider thread](https://advrider.com/f/threads/canister-removal.1245184/)
+- [another advrider thread](https://advrider.com/f/threads/another-diy-ktm-690-thread.708813/page-8)
+
 ## service intervals
 
-| task              | 3k  | 6k  |
-| ----------------- | --- | --- |
-| oil & filters     | X   | X   |
-| check valves      | X   | X   |
-| change air filter | X   | X   |
-| bleed fork legs   | X   | X   |
-| spark plug        |     | X   |
-| brake fluid       |     | X   |
+| task              | 3k  | 6k  | 12k |
+| ----------------- | --- | --- | --- |
+| oil & filters     | X   | X   |     |
+| check valves      | X   | X   |     |
+| change air filter | X   | X   |     |
+| bleed fork legs   | X   | X   |     |
+| spark plug        |     | X   |     |
+| brake fluid       |     | X   |     |
+| rocker arms       |     |     | X   |
 
-## suspension
+## Electrical debugging
 
-You do not need to take the shock off to adjust. Loosen the top tank bolts & remove the bottom. Lift up the tank. Spray the shock threads with WD40 before moving the adjuster ring. The threads gald easy.
-[source](http://690enduro.createaforum.com/suspension/tell-me-about-lowering-this-beast/msg1232/#msg1232)
-
-## sag
-
-- [set sag by yourself](https://www.southbayriders.com/forums/threads/159177/)
-- [setting sag & adjusting ride](http://690enduro.createaforum.com/suspension/setting-sag-and-adjusting-ride/)
-
-static sag (bike only) should be 10% +/- of travel
-riding sag (rider & gear on bike) should be 30% +/- of travel
+> The regulator/rectifier is connected directly to the battery.
+> Get a volt meter and check the battery voltage with the rpm at bout 4-5000 rpm. It should be 14v or so.
+> Often, the Reg/Rec connector will be loose, corroded, burned, broke.
+> Second often, the Reg/Rec is bad.
+> [source](https://advrider.com/f/threads/the-ktm-690-enduro-thread.1048049/page-405#post-36421940)
 
 ## valves
 
@@ -81,15 +118,15 @@ Continuing that thought - when you check your valve clearances look for:
 
 - [My Original KTM 690 Rally Raid Build and History So Far](http://advrider.com/index.php?threads/my-original-ktm-690-rally-raid-build-and-history-so-far.1175453/) lots of great info & weird troubleshooting ideas here
 
-## gear/parts
+## parts
 
-- [Manual Cam Chain Tensioner](https://ktmtwins.com/products/ktm-tensioner?variant=23677440003)
-- [Tractive Rallye rear shock](http://www.rally-raidproducts.co.uk/KTM-690-Enduro-R-SMC/ktm-690-suspension-enduro/tractive-ktm-690-enduro-rear-shock-rallye)
-- [quick disconnect fuel filter](https://ktmtwins.com/products/zipty-quick-2)
+- [Quantum fuel pump](https://www.highflowfuel.com/i-23899048-quantum-t35-intank-fuel-pump-w-regulator-and-strainer-for-ktm-690-enduro-2008-2018-replaces-75007088011-7500708821175007088111.html)
+- ~~[Manual Cam Chain Tensioner](https://ktmtwins.com/products/ktm-tensioner?variant=23677440003)~~
+- ~~[quick disconnect fuel filter](https://ktmtwins.com/products/zipty-quick-2)~~
 
 ## [original listing](http://advrider.com/index.php?threads/2010-ktm-690-enduro-r.1259399/) (_no longer available_)
 
-Located in Brooklyn, NY. I'm asking $7500. I've had a great time with this bike
+Located in Brooklyn, NY. I'm asking \$7500. I've had a great time with this bike
 and it's everything I expected and more. If I could only have one bike, it would
 be this one. I put half of the 16,000 miles on it. Last year I was riding in
 Colorado and I broke a piston ring. I decided to replace the top end with a
@@ -104,7 +141,7 @@ runs great, and has no issues.
 Upgrades:
 
 - Wings Exhaust
-- Rade Auxillary fuel tank
+- Rade auxiliary fuel tank
 - Pod foam filter with pre filter
 - Seat Concepts low seat
 - Pivot Pegs
@@ -121,7 +158,7 @@ Upgrades:
 - G2 Quick Throttle
 - Fuze Block
 - USB Outlet
-- Auxillary fan switch
+- Auxiliary fan switch
 - Double Take Mirrors with RAM Mounts
 - Accessory windscreen
 - New rear rotor

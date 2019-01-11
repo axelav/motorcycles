@@ -1,5 +1,7 @@
 # parts
 
+TODO review [this list][0] of tools
+
 ## tool kit
 
 good [overview](http://www.advrider.com/forums/showthread.php?t=262998) of suggested parts here
@@ -58,3 +60,5 @@ good [overview](http://www.advrider.com/forums/showthread.php?t=262998) of sugge
 - [x] duct tape
 - [x] chain tool
 - [x] short length of extra chain & master link
+
+[0]: https://advrider.com/f/threads/the-toolkit-thread.262998/page-219#post-36251657
