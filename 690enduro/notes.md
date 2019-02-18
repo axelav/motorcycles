@@ -1,5 +1,37 @@
 # notes
 
+## [EFI codes](https://advrider.com/f/threads/ktm-690-efi-2008-2013-idiots-guide.931664/page-16#post-37012889)
+
+:xa
+
+- 2 short - crankshaft position sensor
+- 6 short - throttle position input signal too low
+- 9 short - manifold absolute pressure signal too high or too low
+- 1 long 2 short - engine coolant temp sensor input signal too high/ low
+- 1 long 3 short - intake air temp sensor input signal too high / low
+- 1 long 4 short -ambient air pressure sensor input signal too high / low
+- 1 long 5 short - rollover sensor input signal too high or too low
+- 1 long 7 short -lambda sensor fault
+- 2 long 3 short - speed sensor fault
+- 2 long 4 short - electrical system fault
+- 2 long 5 short - side stand sensor fault
+- 2 long 6 short - motor drive hall sensor fault
+- 3 long 3 short - injector fault
+- 3 long 7 short - ignition coil fault
+- 4 long 1 short - fuel pump signal too high or short to ground or open
+- 4 long 5 short - lambda heater signal too high or short to grnd or open
+- 5 long 3 short - fuel evap valve signal too high or short to grnd or open
+- 5 long 4 short - secondary air valve signal short to ground or open
+- 5 long 8 short - EPT motor drive relay permission fault
+- 6 long - motor drive circuit fault
+- 9 long - throttle position fault
+- 9 long, 1 short - CANBUS communication fault
+- 8x long, 5x short - Accelerator position sensor circuit A - input signal too low or too high
+- 8x long, 6x short - Accelerator position sensor circuit B - input signal too high
+- 8x long, 7x short - Accelerator position sensor circuit A and B - plausibility fault
+- 8x long, 8x short - DBW throttle valve - stuck open
+- 8x long, 9x short - DBW return spring - stuck open
+
 ## suspension work
 
 > Looks like Konflict, Motolabs, and Super Plush have 690-specific suspension commentary on their websites.

@@ -1,6 +1,9 @@
 # parts
 
-TODO review [this list][0] of tools
+TODO
+
+- review [this list][0] of tools
+- vacuum sealed tubes https://advrider.com/f/threads/the-toolkit-thread.262998/page-227#post-36774368
 
 ## tool kit
 

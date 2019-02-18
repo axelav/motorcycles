@@ -15,6 +15,11 @@
 - [Motoz Tractionator Desert H/T 130/90][5]
 - [Motoz Tractionator Enduro S/T 130/90][6]
 
+## non-DOT
+
+- Dunlop AT81 (ran at Sand Blast 2019)
+- Dunlop MX33 - soft compound
+
 ## videos
 
 - [How To Change A Motorcycle Tire][3]
