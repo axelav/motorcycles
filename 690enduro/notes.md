@@ -2,8 +2,6 @@
 
 ## [EFI codes](https://advrider.com/f/threads/ktm-690-efi-2008-2013-idiots-guide.931664/page-16#post-37012889)
 
-:xa
-
 - 2 short - crankshaft position sensor
 - 6 short - throttle position input signal too low
 - 9 short - manifold absolute pressure signal too high or too low
@@ -85,7 +83,7 @@ A kind stranger sent me some instructions to wiring up a fan switch:
 | brake fluid       |     | X   |     |
 | rocker arms       |     |     | X   |
 
-## Electrical debugging
+## electrical debugging
 
 > The regulator/rectifier is connected directly to the battery.
 > Get a volt meter and check the battery voltage with the rpm at bout 4-5000 rpm. It should be 14v or so.
@@ -93,7 +91,14 @@ A kind stranger sent me some instructions to wiring up a fan switch:
 > Second often, the Reg/Rec is bad.
 > [source](https://advrider.com/f/threads/the-ktm-690-enduro-thread.1048049/page-405#post-36421940)
 
+## engine rebuilds
+
+some good info on [rebuilding a 690 engine](https://www.youtube.com/watch?v=MoDyze_ZUew) in this episode of Races to Places
+
 ## valves
+
+> I hate to state the obvious but when you pull the original rockers, pull the shims as well. Mark them with an "e" and "i" and then should you have an issue with a rocker you can replace it along with original shim and know your valve lash is correct.
+> [source](https://advrider.com/f/threads/new-and-improved-ktm690-wunderfest.722987/page-1632#post-37075747)
 
 A few thoughts:
 

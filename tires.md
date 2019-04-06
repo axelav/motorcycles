@@ -1,27 +1,42 @@
 # tires
 
+## ran and liked
+
+### front
+
+- [Shinko 216MX 90/90 or 90/100][1]
+
+### rear
+
+- Dunlop D606
+
+### non-DOT
+
+- Dunlop AT81/AT81RC (I really like these and got +1000 miles on an RC rear)
+
+## only read about
+
+- Metzler MC360 - maybe try these as next dual sport tires: [mid hard](https://www.rockymountainatvmc.com/tires-and-wheels/metzeler-mc360-mid-hard-tire-p) or [mid soft](https://www.rockymountainatvmc.com/tires-and-wheels/metzeler-mc360-mid-soft-tire-p)
 - [Dunlop D908 Rally Raid][4] or from [Bikebandit][7]
 - [Michelin Desert Race][8]
 
-## front
+### front
 
 - [Bridgestone M59 80/100][0]
-- [Shinko 216MX 90/90 or 90/100][1]
 
-## rear
+### rear
 
-- Dunlop D606
 - [Shinko 216MX 140/80][2]
 - [Motoz Tractionator Desert H/T 130/90][5]
 - [Motoz Tractionator Enduro S/T 130/90][6]
 
-## non-DOT
+### non-DOT
 
-- Dunlop AT81 (ran at Sand Blast 2019)
 - Dunlop MX33 - soft compound
 
-## videos
+## tips!
 
+- **use windex as tire lube**
 - [How To Change A Motorcycle Tire][3]
 
 [0]: https://slavensracing.com/shop/m59-front-tire-bridgestone/

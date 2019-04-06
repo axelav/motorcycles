@@ -1,5 +1,7 @@
 # notes
 
+[advrider thread](https://advrider.com/f/threads/triumph-tiger-800.599070/)
+
 ## todo
 
 > Our only other immediate complaint concerned the fork, which in stock trim

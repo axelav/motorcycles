@@ -1,4 +1,4 @@
-# KTM 690 Enduro
+# KTM 690 Enduro R settings
 
 ## oil
 
