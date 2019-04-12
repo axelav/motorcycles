@@ -4,52 +4,54 @@ use this as a place to add notes, bookmark useful info, guides, etc for FE501 bu
 
 ## TODO
 
-### gearing
-
-- replace front sprocket (13T)
-- grease countershaft
-- loctite sprocket bolt
-
 ### shock
 
-- replace shock spring
 - grease linkage
 - grease swing arm bearing
 - loctite shock bottom bolt
+- replace shock spring
 
 ### forks
 
-- replace fork springs
 - grease steering stem bearings
+- replace fork springs
 
 ### general
 
-- set sag
-- ?? adjust idle speed
-
-### air and fueling mods
-
-- remove emissions parts
-- remove [intake reed valves](https://thumpertalk.com/forums/topic/1220068-17-husky-501-airboot-reed-removal-report/?tab=comments#comment-13619942)
-- remove [muffler screen](https://www.youtube.com/watch?v=wEaToHfCaog)
-- install Vortex ECU
-
-### as parts arrive...
-
-- install SuperMount
-- install fuel pre-filter
 - install hand guards
-- install headlight
 - install nav clamps
-- replace pegs
+- re-shim exhaust valves
 - replace seat
+- set sag (after changing springs)
+
+### gearing
+
+- grease countershaft
+- loctite sprocket bolt
+- replace front sprocket (13T)
+
+### electrical
+
 - wire accessory battery harness
 
-### at 3 hours or after first long ride
+### wheels
 
 - adjust chain
 - anti seize chain adjuster bolts
 - balance wheels
+- replace tires
+
+### air and fueling
+
+- install Vortex ECU
+- remove [intake reed valves](https://thumpertalk.com/forums/topic/1220068-17-husky-501-airboot-reed-removal-report/?tab=comments#comment-13619942)
+- remove [muffler screen](https://www.youtube.com/watch?v=wEaToHfCaog)
+- remove emissions parts
+- install fuel pre-filter
+- if necessary, adjust idle speed
+
+### at 3 hours or after first long ride
+
 - check radiator fan
 - electrical spray on all connectors
 - full bolt check
@@ -69,8 +71,37 @@ use this as a place to add notes, bookmark useful info, guides, etc for FE501 bu
 ## now
 
 - [steering stabilizer and mount](https://www.scottsonline.com/ShopYourBike_Products.php?Bike_ID=7567#)
-- tail: [fender](http://sicassracing.com/store/products/tail_lights/led_tail_lights/husqvarna/2017-19_husqvarna_fe_easy_fit_under_fender), [turn signals](http://sicassracing.com/store/turn_signals/led/orange_lens_led_flat_mount_ktm), [rewire kit](http://sicassracing.com/store/products/turn_signals/wiring/led_turn_signal_indicator), [flasher](http://sicassracing.com/store/products/turn_signals/wiring/sicass_smart_flasher_led_turn_signal_flasher)
-- air filter: [dust cover](https://www.motosport.com/twin-air-dust-cover?variant[TWA000I]=TWA000I-X001-Y030) or [husky model](https://www.motosport.com/husqvarna-technical-accessories-air-filter-dust-cover?variant[HPP0009]=HPP0009-X001-Y001), [sand cover](https://www.motosport.com/husqvarna-technical-accessories-air-filter-sand-cover?variant[HPP000B]=HPP000B-X001-Y001), [rain cover](https://www.motosport.com/husqvarna-technical-accessories-air-filter-rain-cover?variant[HPP000A]=HPP000A-X001-Y001), [air box filtered vents](http://shop.unifilter.com/p/air-box-filtered-air-vents-6-pack)
+- air filter: ~~[dust cover](https://www.motosport.com/twin-air-dust-cover?variant[TWA000I]=TWA000I-X001-Y030)~~, [sand cover](https://www.motosport.com/husqvarna-technical-accessories-air-filter-sand-cover?variant[HPP000B]=HPP000B-X001-Y001), [rain cover](https://www.motosport.com/husqvarna-technical-accessories-air-filter-rain-cover?variant[HPP000A]=HPP000A-X001-Y001), [air box filtered vents](http://shop.unifilter.com/p/air-box-filtered-air-vents-6-pack)
+
+## next
+
+- heated grips
+- [fmf 4.1](http://www.fmfracing.com/Product/ProductDetail?CategoryID=570&BikeType=MX%2FOFFROAD&BikeMake=HUSQVARNA&BikeModel=&BikeYear=&imaConfig=Single&ParentCategoryID=31&Priority=7&SearchText=#) or just an [end cap](https://www.ktmandhusky.com/product-page/copy-of-power-cap-for-2017-fe-in-silver)
+- Hammerhead brake & shift levers
+- linkage guard: [slavens](https://slavensracing.com/shop/mule-link-guard-slavens/), enduro engineering, [fastway](https://promotobillet.com/fastwayproducts/link-guards/link-guards-products/ktm-husqvarna-linkage-guard-blue-22-lgs-301bl)
+- radiator guards & brace from Enduro Engineering
+- [TMD skid plate](https://tmdesignworks.com/index.php?main_page=product_info&cPath=325_445_450&products_id=1265)
+- [blitzbuttons](https://advrider.com/f/threads/blitz-buttons-bluetooth-digital-rally-remotes-rallyblitz-and-rally-navigator-compatible.1266762/)
+- Acerbis 4.1 gallon tank
+- [jump start battery](https://advrider.com/f/threads/husqvarna-fe501s-fe350s.1009100/page-32#post-26776045)
+- [fork scrapers](https://www.rockymountainatvmc.com/parts/skf-fork-mud-scraper-kit-p)
+- ~~[bash plate & linkage guard](https://enduroeng.com/index.php?route=extras/mwp_search&lv1=18&lv2=248&lv3=6834&lv4=47689)~~ there's also a linkage guard from Obie?
+
+## luggage
+
+- [wolfman e-base](https://wolfmanluggage.com/collections/2019-new-and-updated/products/the-e-base)
+- [303 long rolies](https://wolfmanluggage.com/collections/rolie-bags/products/303-long-rolie?variant=5096620621855)
+- [Mosko Reckless 40L](https://moskomoto.com/collections/rackless-systems/products/reckless-40l-system)
+
+## later
+
+- suspension revalving, etc: konflict, https://www.aeopowersports.com/, others?
+- ?? [wind screen](https://www.screensforbikes.com/shop/husqvarna/701-2015/)
+
+## purchased
+
+- ~~[starcross 5 tires](https://www.motosport.com/michelin-starcross-5-tire-combo?mmy=husqvarna;fe501hq;2018&mmy_source=pdp&variant[MIC004G]=MIC004E-X001-Y002&variant[MIC004H]=MIC004F-X001-Y003)~~
+- ~~tail: [fender](http://sicassracing.com/store/products/tail_lights/led_tail_lights/husqvarna/2017-19_husqvarna_fe_easy_fit_under_fender), [turn signals](http://sicassracing.com/store/turn_signals/led/orange_lens_led_flat_mount_ktm), [flasher](http://sicassracing.com/store/products/turn_signals/wiring/sicass_smart_flasher_led_turn_signal_flasher)~~
 - ~~profill prefilter~~
 - ~~[cycra probed crm](https://cycra.com/product/cycra-probend-crm-handguards-oversize-bar-racer-pack-white-shields/)~~
 - ~~[fastway evo4 pegs](https://www.rockymountainatvmc.com/parts/fastway-evo-4-foot-pegs-p)~~
@@ -82,26 +113,3 @@ use this as a place to add notes, bookmark useful info, guides, etc for FE501 bu
 - ~~13T front sprocket~~
 - ~~Progrip 714 rally grips~~
 - ~~springs: front 0.50 kg/mm; rear 5.4kg/mm~~
-
-## next
-
-- heated grips
-- [fmf 4.1](http://www.fmfracing.com/Product/ProductDetail?CategoryID=570&BikeType=MX%2FOFFROAD&BikeMake=HUSQVARNA&BikeModel=&BikeYear=&imaConfig=Single&ParentCategoryID=31&Priority=7&SearchText=#) or just an [end cap](https://www.ktmandhusky.com/product-page/copy-of-power-cap-for-2017-fe-in-silver)
-- [TMD skid plate](https://tmdesignworks.com/index.php?main_page=product_info&cPath=325_445_450&products_id=1265)
-- [blitzbuttons](https://advrider.com/f/threads/blitz-buttons-bluetooth-digital-rally-remotes-rallyblitz-and-rally-navigator-compatible.1266762/)
-- Hammerhead brake & shift levers
-- [fork scrapers](https://www.rockymountainatvmc.com/parts/skf-fork-mud-scraper-kit-p)
-- radiator guards & brace from Enduro Engineering
-- ~~[bash plate & linkage guard](https://enduroeng.com/index.php?route=extras/mwp_search&lv1=18&lv2=248&lv3=6834&lv4=47689)~~ there's also a linkage guard from Obie?
-- Acerbis 4.1 gallon tank
-- [jump start battery](https://advrider.com/f/threads/husqvarna-fe501s-fe350s.1009100/page-32#post-26776045)
-
-## luggage
-
-- [wolfman e-base](https://wolfmanluggage.com/collections/2019-new-and-updated/products/the-e-base)
-- [303 long rolies](https://wolfmanluggage.com/collections/rolie-bags/products/303-long-rolie?variant=5096620621855)
-- [Mosko Reckless 40L](https://moskomoto.com/collections/rackless-systems/products/reckless-40l-system)
-
-## later
-
-- suspension revalving, etc: konflict, https://www.aeopowersports.com/, others?

@@ -7,6 +7,7 @@ Purchased on **03/19/19** with **0** miles for \$9500
 ### 1 hour / 22 miles / 2019-03-29
 
 - adjust handlebar position
+- align forks
 - anti seize brake pad pins front
 - anti seize brake pad pins rear
 - change oil and filter
@@ -18,13 +19,15 @@ Purchased on **03/19/19** with **0** miles for \$9500
 - check steering limiters
 - check valve clearances
 - check valve shim sizes
+- grease axles
+- install SuperMount
 - loctite chain guide bolts
 - loctite kickstarter bolt
+- replace headlight (Baja Designs)
+- replace pegs
 - secure fuel pump relay with ziptie
 - secure starter relay with ziptie
 - stabilize and protect wiring
-- grease axles
-- align forks
 
 ### 0 hours / 0 miles / 2019-03-22
 
