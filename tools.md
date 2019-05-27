@@ -93,7 +93,7 @@ TODO
 
 ## tires
 
-- [x] tubes
+- [x] tubes (not heavy duty)
 - [x] tire irons (2-3)
 - [x] patches
 - [x] glue
@@ -117,10 +117,3 @@ TODO
 - [x] short length of extra chain & master link
 
 [0]: https://advrider.com/f/threads/the-toolkit-thread.262998/page-219#post-36251657
-
----
-
-# TODO review these
-
-- https://advrider.com/f/threads/adventurizing-a-ktm-500exc-for-rtw-riding.1369978/page-26#post-37284501
-- https://advrider.com/f/threads/adventurizing-a-ktm-500exc-for-rtw-riding.1369978/page-27#post-37288231
