@@ -12,9 +12,11 @@
 
 ### non-DOT
 
-- Dunlop AT81/AT81RC (I really like these and got +1000 miles on an RC rear)
+- Dunlop AT81/AT81RC (I really like these and got +1000 miles on an RC rear on the 690)
 
 ## only read about
+
+**race tires:** MX33 front and AT81 rear
 
 - Metzler MC360 - maybe try these as next dual sport tires: [mid hard](https://www.rockymountainatvmc.com/tires-and-wheels/metzeler-mc360-mid-hard-tire-p) or [mid soft](https://www.rockymountainatvmc.com/tires-and-wheels/metzeler-mc360-mid-soft-tire-p)
 - [Dunlop D908 Rally Raid][4] or from [Bikebandit][7]
@@ -33,6 +35,11 @@
 ### non-DOT
 
 - Dunlop MX33 - soft compound
+
+### trail/singletrack tires
+
+- Pirelli MT 43 Pro (DOT)
+- Shinko R505 Hybrid Cheater
 
 ## tips!
 
