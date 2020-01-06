@@ -1,3 +1,34 @@
+# tools
+
+## an excellent summary of tools for travel
+
+https://advrider.com/f/threads/the-toolkit-thread.262998/page-235#post-38482037
+
+## hrm some stuff??
+
+- [wheel bearing press tool](https://www.tokyooffroad.com/product/wheel-bearing-press-tool-wbpt/)
+
+[what Lyndon carries on Basil bike](https://www.youtube.com/watch?v=WgVnY5kw5zg)
+
+backpack
+
+- rain gear
+- small pouch of tools
+- wallet
+- small digital camera
+- extra set of gloves
+
+## to purchase
+
+- [spoke torque wrench](https://www.rockymountainatvmc.com/parts/fasst-spoke-torque-wrench-p?s=24920) and [head](https://www.rockymountainatvmc.com/parts/fasst-spoke-wrench-head-p?s=24937)
+
+## TODO review these
+
+- https://advrider.com/f/threads/adventurizing-a-ktm-500exc-for-rtw-riding.1369978/page-26#post-37284501
+- https://advrider.com/f/threads/adventurizing-a-ktm-500exc-for-rtw-riding.1369978/page-27#post-37288231
+
+---
+
 # race tool kit
 
 ## bike

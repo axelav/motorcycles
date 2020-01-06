@@ -1,0 +1,32 @@
+# initial or yearly bike check
+
+- adjust chain
+- adjust handlebar position
+- align forks
+- anti seize brake pad pins front and rear
+- anti seize chain adjuster bolts
+- balance wheels
+- check coolant
+- check fairing screws
+- check radiator fan
+- check radiator hose clamps
+- check rim lock tension
+- check spoke tension
+- check steering stops
+- check valve clearances
+- check valve shim sizes
+- grease axles
+- grease countershaft
+- grease linkage
+- grease steering stem bearings
+- grease swing arm bearing
+- grease wheel bearings
+- loctite chain guide bolts
+- loctite shock bottom bolt
+- loctite sprocket bolt
+- replace grips
+- replace oil and filter
+- secure fuel pump relay with ziptie
+- secure skid plate to frame with zip ties
+- secure starter relay with ziptie
+- stabilize and protect wiring

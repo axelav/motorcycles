@@ -1,45 +1,56 @@
 # tires
 
+[good tire install video](https://www.youtube.com/watch?v=m3gC2__Rxi0)
+
 ## ran and liked
 
+### favorite combo
+
+- front: Goldentyre GT216AA Fatty
+- rear: Goldentyre GT333 110/100
+
 ### front
 
-- [Shinko 216MX 90/90 or 90/100][1]
+- Goldentyre GT216AA Fatty 90/100
+- Shinko 216MX 90/90 or 90/100
+- Dunlop Geomax AT81 90/90
 
 ### rear
 
+- Dunlop Geomax AT81 RC 120/90
 - Dunlop D606
 
-### non-DOT
-
-- Dunlop AT81/AT81RC (I really like these and got +1000 miles on an RC rear on the 690)
-
-## only read about
-
-**race tires:** MX33 front and AT81 rear
-
-- Metzler MC360 - maybe try these as next dual sport tires: [mid hard](https://www.rockymountainatvmc.com/tires-and-wheels/metzeler-mc360-mid-hard-tire-p) or [mid soft](https://www.rockymountainatvmc.com/tires-and-wheels/metzeler-mc360-mid-soft-tire-p)
-- [Dunlop D908 Rally Raid][4] or from [Bikebandit][7]
-- [Michelin Desert Race][8]
+## recommended
 
 ### front
 
-- [Bridgestone M59 80/100][0]
+- Bridgestone M59 80/100
+- MX33
 
 ### rear
 
-- [Shinko 216MX 140/80][2]
-- [Motoz Tractionator Desert H/T 130/90][5]
-- [Motoz Tractionator Enduro S/T 130/90][6]
-
-### non-DOT
-
-- Dunlop MX33 - soft compound
+- Shinko R525 Hybrid Cheater 110/100 - rocks & roots -> PA enduros
+- Dunlop MX33 soft compound
+- Dunlop D908 Rally Raid
+- Michelin Desert Race
 
 ### trail/singletrack tires
 
+- Michelin Enduro Medium
 - Pirelli MT 43 Pro (DOT)
 - Shinko R505 Hybrid Cheater
+- Motoz Mountain Hybrid
+
+## mousse
+
+[The Great Nitro Mousse Controversy/Tyre/Tire Discussion](https://advrider.com/f/threads/the-great-nitro-mousse-controversy-tyre-tire-discussion.1242914/page-12)
+
+- [jimmy lewis - how to install & remove](https://www.youtube.com/watch?v=mUpYrvIT_yA)
+- [installing your bib mousse](https://www.youtube.com/watch?v=8TvbQ8IIIWk)
+- [zip ty tips](https://www.youtube.com/watch?v=rdUWsk1-gnE)
+- [dismount & mount](https://www.youtube.com/watch?v=XCbr_gkSRLg)
+
+> The NM18-305 works great with the GT333 in 110/100-18 on the rear.
 
 ## tips!
 
@@ -47,11 +58,8 @@
 - [How To Change A Motorcycle Tire][3]
 
 [0]: https://slavensracing.com/shop/m59-front-tire-bridgestone/
-[1]: https://slavensracing.com/shop/shinko-216-mx-front-tires/?attribute_tire-size=90%2F90-21
 [2]: https://slavensracing.com/shop/216-mx-offroad-rear-tires-shinko/?attribute_tire-size=140%2F80-18+MX+Enduro
 [3]: https://www.youtube.com/watch?v=m3gC2__Rxi0
-[4]: http://tiresunlimited.com/ALL%20TIRES/Dunlop/dunlop_d908.htm
 [5]: https://slavensracing.com/shop/tractionator-desert-ht-tires-motoz/
 [6]: https://slavensracing.com/shop/tractionator-enduro-st-tires-by-motoz/
 [7]: https://www.bikebandit.com/tires-tubes/motorcycle-tires/dunlop-d908-rally-raid-enduro-motorcycle-tire/p/3486
-[8]: https://www.rockymountainatvmc.com/p/742/66584/Michelin-Desert-Race-Rear-Tire
