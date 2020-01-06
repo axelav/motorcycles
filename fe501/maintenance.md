@@ -1,8 +1,61 @@
 # 2018 Husqvarna FE501
 
-Purchased on **03/19/19** with **0** hours for \$9500
+Purchased on **2019-03-19** with **0** hours for \$9500
 
 ## maintenance
+
+### 81 hours / 2305 miles / 2019-12-07
+
+- replace tank fuel filter
+- install Pro Taper Evo Windham bend handlebars (cut 1/2" each side)
+
+### 72 hours / 2150 miles / 2019-11-14
+
+- remove steering stops
+- replace in-line fuel filter
+
+### 67 hours / 2060 miles / 2019-10-20
+
+- replace oil and filter
+- replace air filter
+- install Clean Speed stepped brake pad
+- replace rear tire (Michelin Starcross 5 - old tire)
+
+### 34 hours / 990 miles / 2019-10-02
+
+- replace oil and filter
+- replace rear tire (Goldentyre GT333 120/100)
+- replace rear sprocket, 45T (OEM)
+
+### 26.5 hours / 720 miles / 2019-09-26
+
+- replace front tire (Goldentyre GT216AA 90/100)
+- replace air filter
+
+### 21.5 hours / 660 miles / 2019-09-02
+
+- replace rear sprocket, 50T (Dirt Tricks)
+
+### 20 hours / 645 miles / 2019-08-03
+
+- install Bulletproof Designs radiator guards
+- replace clutch slave cylinder (Rekluse)
+- replace clutch lever (Midwestern Mountain Engineering)
+
+### 18.5 hours / 596 miles / 2019-06-26
+
+- replace air filter
+- replace oil and filter
+
+### 9.5 hours / 238 miles / 2019-06-09
+
+- install hand guard mounts (BRP)
+- remove emissions parts
+- remove intake reed valves
+- replace ECU (Athena GET RX-1 Pro)
+- replace front brake lever (Works Connection ARC Folding)
+- replace silencer (FMF 4.1)
+- replace start/kill and multi-function switches (Sicass)
 
 ### 8 hours / 222 miles / 2019-05-24
 
@@ -15,9 +68,8 @@ Purchased on **03/19/19** with **0** hours for \$9500
 - install hand guards (Cycra Probend CRM)
 - loctite sprocket bolt
 - re-shim intake valves
-- replace clutch lever
-- replace countershaft dome washer (Dirt Tricks)
-- replace front sprocket (Dirt Tricks 13T)
+- replace clutch lever (Torc1 Flex)
+- replace countershaft dome washer (Dirt Tricks) replace front sprocket, 13T (Dirt Tricks)
 - replace grips (Progrip 714 Rally)
 - secure skid plate to frame with zip ties
 
@@ -30,7 +82,7 @@ Purchased on **03/19/19** with **0** hours for \$9500
 - anti seize brake pad pins rear
 - anti seize chain adjuster bolts
 - balance wheels
-- change oil and filter
+- replace oil and filter
 - check coolant
 - check fairing screws
 - check radiator hose clamps
@@ -83,23 +135,31 @@ Purchased on **03/19/19** with **0** hours for \$9500
 
 ## upgrades
 
-- Dirt Tricks 13T front sprocket
-- Motominded [SuperMount v2](https://www.motominded.com/products/super-mount), [Baja Designs Ultimate light kit](https://www.motominded.com/collections/husqvarna-2016-19-701/products/2016-husqvarna-701-xl-kit?variant=13857579728957) with wide cornering S2 and combo/spot Squadron Pro, [universal GPS mount](https://www.motominded.com/products/universal-gps-mount?variant=14136231395389) [MEK](https://www.motominded.com/collections/husqvarna-2017-19-fe-250-350-450-501/products/mek-motorcycle-essentials-kit-2017-hqv-small-enduro?variant=12556940673085), [AFD](https://www.motominded.com/collections/husqvarna-2017-19-fe-250-350-450-501/products/afd)
+- Acerbis 15L fuel tank
+- Athena Get RX1-PRO ECU
+- BRP submount and hand guard mounts
+- Bulletproof Designs radiator guards
+- Clean Speed stepped brake pad
+- Cycra Probend CRM hand guards
+- Dirt Tricks sprockets
+- FMF 4.1 exhaust
+- Fastway Evo 4 pegs
+- Midwestern Mountain Engineering clutch lever
+- Motominded
+  - SuperMount v2
+  - Baja Designs S2 Pro and Squadron Pro lights
+  - Moto Essentials Kit
+  - Air Filter Disc
+- Obie linkage guard
+- Profill pre-filter
 - Progrip 714 rally grips
-- Sicass [fender](http://sicassracing.com/store/products/tail_lights/led_tail_lights/husqvarna/2017-19_husqvarna_fe_easy_fit_under_fender), [turn signals](http://sicassracing.com/store/turn_signals/led/orange_lens_led_flat_mount_ktm), and [flasher](http://sicassracing.com/store/products/turn_signals/wiring/sicass_smart_flasher_led_turn_signal_flasher)
-- [Cycra Probend CRM](https://cycra.com/product/cycra-probend-crm-handguards-oversize-bar-racer-pack-white-shields/)
-- [Fastway Evo 4 pegs](https://www.rockymountainatvmc.com/parts/fastway-evo-4-foot-pegs-p)
-- [Obie linkage guard](https://www.rockymountainatvmc.com/parts/obie-linkage-guard-for-ktm-husqvarna-plastic-skid-plate-p?s=1376787)
-- [Profill prefilter](http://www.profill-australia.com/online-shop#!/KTM0001A-MK5/p/103065348/category=28341010)
-- [Scott's steering stabilizer and submount](https://www.scottsonline.com/ShopYourBike_Products.php?Bike_ID=7567#)
-- [Seat Concepts Tall Comfort 2.0](https://seatconcepts.com/collections/husqvarna/products/husqvarna-2016-18-tc-fc-2017-18-te-fe-tx-fx-tall-race2-0?variant=1875514949644)
-- springs: front 0.50 kg/mm; rear 5.4kg/mm
-
-### not yet...
-
-- [FMF 4.1 exhaust](http://www.fmfracing.com/Product/ProductDetail?CategoryID=570&BikeType=MX%2FOFFROAD&BikeMake=HUSQVARNA&BikeModel=&BikeYear=&imaConfig=Single&ParentCategoryID=31&Priority=7&SearchText=#)
-- [Slaven's emissions kit](https://slavensracing.com/shop/slavens-mule-ez-emissions-kit-ktm-hqv/)
-- [Athena Get RX1-PRO ECU](https://slavensracing.com/shop/get-rx1-evo-ecu-ktm/)
-- Sicass [start/kill switch](https://www.rockymountainatvmc.com/parts/sicass-racing-start-kill-switch-p?s=1407319) and [multi-function bar switch](https://www.rockymountainatvmc.com/parts/sicass-racing-multi-function-bar-switch-p?s=1294088)
-- [BRP hand guard mounts](https://www.rockymountainatvmc.com/parts/brp-hand-guard-mounts-p?s=1196386)
-- [RMS nav clamps](https://www.rallymotoshop.com/collections/rally-navigation-parts/products/universal-navigation-clamps)
+- Rekluse slave cylinder
+- Scott's steering stabilizer
+- Seat Concepts Tall Comfort 2.0
+- Sicass
+  - fender
+  - LED rear turn signals and flasher
+  - start/kill switch
+  - multi-function switch
+- Slaven's emissions kit
+- Works Connection ARC Folding brake lever

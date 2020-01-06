@@ -4,6 +4,11 @@ Purchased on **10/04/17** with **16850** miles for \$6900
 
 ## maintenance
 
+### 27,990 miles / 2019-12-01 / shop service
+
+- clean oil filters and screens
+- replace oil
+
 ### 26,588 miles / 2019-02-17 / shop service
 
 - bleed clutch fluid

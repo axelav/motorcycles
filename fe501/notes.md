@@ -1,20 +1,16 @@
 # 2018 Husqvarna FE501
 
+- [clutch rubber/plates inspection and install](https://www.youtube.com/watch?v=BeFNKS9Su1o)
+- when checking valves, disconnect the breather hose from the bottom of the air box so I have some slack to reattach to the valve cover!
+- [capacitor as backup for dead battery](https://thumpertalk.com/forums/topic/1091727-starting-a-350exc-without-a-battery/page/3/)
+
 ## TODO
 
-- **install GET RX-1 Pro ECU**
-- **remove [intake reed valves](https://thumpertalk.com/forums/topic/1220068-17-husky-501-airboot-reed-removal-report/?tab=comments#comment-13619942)**
-- **replace silencer (FMF 4.1) - use silicone gasket!**
-- **remove emissions parts**
-- **if necessary, adjust idle speed**
-
-- install Sicass start/kill and multi-function switches
-- replace front brake lever
-- electrical spray on all connectors
-- full bolt check
-- **properly wire accessory harness and GPS power with connectors**
-- protect frame abrasion areas & recheck wiring stability
-- set sag
+- shorter handlebars - [Moose Burleson](https://www.denniskirk.com/moose/black-1-1-8-in-flex-series-burleson-aluminum-handlebars-0601-1767.p597837.prd/597837.sku)
+- replace front blinkers w/ [tuff lites](http://www.extremedualsport.com/Products/TuffLites/tabid/88/Default.aspx#!/Tuff-Lites-KTM-connectors/p/85333796/category=19391174)
+- store spare levers in air box
+- properly wire accessory harness with connectors
+- [set sag][sag]
 
 ### later
 
@@ -23,54 +19,20 @@
 ## tips
 
 - where to store small pump and trail stand? some use voile straps and attach pump to forks
-- race tires: MX33 front and AT81 rear
-- [drill rear of skid plate and zip tie to frame](https://advrider.com/f/threads/husqvarna-fe501s-fe350s.1009100/page-1032#post-37476149)
-- [ims 4.5 gallon install help](https://advrider.com/f/threads/husqvarna-fe501s-fe350s.1009100/page-1031#post-37470078)
+- [drill rear of skid plate and zip tie to frame][drill-skid]
 
 ## parts to buy
 
-- [IMS 4.5 gallon tank](https://www.ktm-parts.com/57-3858.html)
-- [Bulletproof Designs radiator guards](https://bulletproofdesigns.com/husqvarna-radiator-guards-gen2/)
-- Hammerhead shift lever
-- chain: [slider](https://www.rockymountainatvmc.com/parts/husqvarna-chain-slider-p?c=387&v=15089), [sliding piece](https://www.rockymountainatvmc.com/parts/husqvarna-chain-sliding-piece-below-p?c=387&v=15089), [guide](https://www.rockymountainatvmc.com/parts/husqvarna-t.m.-designworks-chain-guide-p?c=387&v=15089)
-- [Oberon clutch slave cylinder](https://www.cjdesignsllc.com/about-us/brands/oberon-performance/oberon-cylinder-replaces-oem-slave-unit-husqvarna-clutch-slave-part-79432061044/)
-- air filter [rain cover](https://www.motosport.com/husqvarna-technical-accessories-air-filter-rain-cover?variant[HPP000A]=HPP000A-X001-Y001)
-- heated grips
-- [NAPA 3095 fuel filter](https://www.napaonline.com/en/p/FIL3095)
-- [TM Design Works skid plate](https://tmdesignworks.com/index.php?main_page=product_info&cPath=325_445_450&products_id=1265)
-- [blitzbuttons](https://advrider.com/f/threads/blitz-buttons-bluetooth-digital-rally-remotes-rallyblitz-and-rally-navigator-compatible.1266762/)
-- ?? suspension revalving, etc: konflict, https://www.aeopowersports.com/, others?
-- ?? [wind screen](https://www.screensforbikes.com/shop/husqvarna/701-2015/)
-- ?? [STR fork bleeders](https://slavensracing.com/shop/fork-speed-bleed-buttons/) will interfere with preload adjusters
-
-### luggage
-
-- Wolfman E-Base
-- 303 long and medium rolies
-
-## suspension
-
-### spring rates
-
-| part  | rate       |
-| ----- | ---------- |
-| shock | 5.40 kg/mm |
-| forks | 0.50 kg/mm |
-
-### settings
-
-| rear shock             | setting     |
-| ---------------------- | ----------- |
-| preload                | 14mm        |
-| high speed compression | 1.75 clicks |
-| low speed compression  | 14 clicks   |
-| rebound                | 14 clicks   |
-
-| forks       | setting   |
-| ----------- | --------- |
-| preload     | +3        |
-| compression | 13 clicks |
-| rebound     | 13 clicks |
+- spare countershaft bolt and washer
+- skid plate: [Molecule][molecule], [AXP][axp], [TMD][bash]
+- [GET Traction Control Knob](https://tacomoto.co/products/get-traction-control-knob)
+- [FLO clutch lever](https://flomotorsports.com/collections/husqvarna-products/products/copy-of-ktm-clutch-lever)
+- chain: [slider][chain1], [sliding piece][chain2], [guide][chain3]
+- [Warp9][warp9] or [Haan][haan] wheel set
+- [preload adjuster tool][preload]
+- metal fuel filter: [NAPA 3095](https://www.napaonline.com/en/p/FIL3095) or Wix 33095
+- [blitzbuttons][blitz]
+- ?? suspension revalve via WER, Enduro Spec, &c
 
 ## specs
 
@@ -113,5 +75,20 @@
 
 ## info
 
-- [advrider FE501 thread](https://advrider.com/f/threads/husqvarna-fe501s-fe350s.1009100/)
-- [RM parts](https://www.rockymountainatvmc.com/parts/2018-husqvarna-fe-501?v=15089)
+- [advrider FE501 thread][adv-501]
+- [RMATV parts][rmatv]
+
+[adv-501]: https://advrider.com/f/threads/husqvarna-fe501s-fe350s.1009100/
+[bash]: https://tmdesignworks.com/index.php?main_page=product_info&cPath=325_445_450&products_id=1265
+[blitz]: https://advrider.com/f/threads/blitz-buttons-bluetooth-digital-rally-remotes-rallyblitz-and-rally-navigator-compatible.1266762/
+[chain1]: https://www.rockymountainatvmc.com/parts/husqvarna-chain-slider-p?c=387&v=15089
+[chain2]: https://www.rockymountainatvmc.com/parts/husqvarna-chain-sliding-piece-below-p?c=387&v=15089
+[chain3]: https://www.rockymountainatvmc.com/parts/husqvarna-t.m.-designworks-chain-guide-p?c=387&v=15089
+[drill-skid]: https://advrider.com/f/threads/husqvarna-fe501s-fe350s.1009100/page-1032#post-37476149
+[haan]: https://pacificpowersports.com/products/haan-wheels/
+[rmatv]: https://www.rockymountainatvmc.com/parts/2018-husqvarna-fe-501?v=15089
+[sag]: https://slavensracing.com/help/suspension-set-up/
+[warp9]: https://www.warp9racing.com/product/mx-wheels/
+[preload]: https://www.ktm-parts.com/81319910000.html
+[molecule]: https://tacomoto.co/products/molecule-motorsports-skid-plate-17-20-ktm-450-500-exc?variant=31474569805927
+[axp]: https://www.axp-racing.com/en/product/ktm-husqvarna-450-501-xtrem-skid-plate-black-ax1432

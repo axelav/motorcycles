@@ -1,5 +1,10 @@
 # notes
 
+## for sale pages
+
+- [facebook](https://www.facebook.com/marketplace/item/1433077696861371/)
+- [advrider](https://advrider.com/f/threads/2010-ktm-690-enduro-r-28-000-miles-6-000-brooklyn-ny-11231.1418880/)
+
 ## [EFI codes](https://advrider.com/f/threads/ktm-690-efi-2008-2013-idiots-guide.931664/page-16#post-37012889)
 
 - 2 short - crankshaft position sensor
