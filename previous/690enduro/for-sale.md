@@ -1,9 +1,9 @@
-2010 KTM 690 Enduro R - 28,000 miles - \$6,000 - Brooklyn NY 11231
+2010 KTM 690 Enduro R - 28,000 miles - \$5,000 - Brooklyn NY 11231
 
-Located in Brooklyn, NY. I'm asking \$6,000. It's with a heavy heart that I put
-this bike up for sale. I've had an amazing time with it, but it's time to trim
-the stable back a bit. It has been well maintained throughout its life, and I
-have maintenance logs and receipts for work done/upgrades.
+Located in Brooklyn, NY. I'm asking \$5,000. I've had an amazing time with this
+bike, but it's time to trim the stable back a bit. It has been well maintained
+throughout its life, and I have maintenance logs and receipts for work
+done/upgrades.
 
 Oil (always Motorex) just changed, Scott's stainless steel filters cleaned, and
 fresh air filter put in. Fresh rocker arms (updated version) were installed
@@ -26,7 +26,7 @@ guards.
 
 2010 KTM 690 Enduro R
 28,000 miles
-\$6,000 - make me an offer
+\$5,000 - make me an offer
 Located in Brooklyn NY 11231
 
 **I am open to trades for a KTM/Husqvarna 250/300 2-stroke.**
@@ -69,3 +69,21 @@ Upgrades:
 - OEM exhaust and many other parts taken off...
 
 That's it. Feel free to ask questions.
+
+---
+
+# RECENTLY
+
+- chain and sprockets
+- fuel pump
+- fuel filters
+- oil
+- clutch and brake fluid
+- valves / rocker arms inspected
+- coolant
+- throttle cable
+
+## removed due to price
+
+- stabilizer
+- headlight
