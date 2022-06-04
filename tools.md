@@ -1,5 +1,52 @@
 # tools
 
+## [Tokyo Offroad](https://www.youtube.com/watch?v=T2D49jEVIrk)
+
+### tires
+
+- tire plugs & tool
+- pump
+- tire irons (Motion Pro)
+- trail bead buddy
+- !! digital pressure gauge
+- patches
+- valve stem puller
+
+### general
+
+- flashlight
+- Knipex 7" pliers wrench
+- KTM tire lever/axle tool (useful for spark plug)
+- box wrench for axle adjusters
+- wrench -> sockets/hex/torx/etc
+- screwdriver
+- hacksaw blade
+- !! snap off knife (razor blades)
+- wire cutters
+
+### fixing
+
+- zip ties (various size)
+- stainless steel wire
+- quiksteel
+- duct tape
+- !! epoxy resin
+
+### nuts/bolts/etc
+
+- spare master link
+- spark plug
+- assorted nuts, bolts, fuses
+
+### in backpack
+
+- 21" tube
+- !! siphon tube for gas
+- 2 stroke mixing oil (when necessary)
+- saw
+
+---
+
 ## an excellent summary of tools for travel
 
 https://advrider.com/f/threads/the-toolkit-thread.262998/page-235#post-38482037
@@ -21,6 +68,7 @@ backpack
 ## to purchase
 
 - [spoke torque wrench](https://www.rockymountainatvmc.com/parts/fasst-spoke-torque-wrench-p?s=24920) and [head](https://www.rockymountainatvmc.com/parts/fasst-spoke-wrench-head-p?s=24937)
+- [fuel pressure gauge](https://slavensracing.com/shop/fuel-pressure-gauge-for-ktm-husaberg-hqv-beta-by-slavens-racing/)
 
 ## TODO review these
 

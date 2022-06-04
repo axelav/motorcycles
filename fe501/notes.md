@@ -1,5 +1,7 @@
 # 2018 Husqvarna FE501
 
+oil change takes 1.2 liters, includes oil in filter
+
 - [clutch rubber/plates inspection and install](https://www.youtube.com/watch?v=BeFNKS9Su1o)
 - when checking valves, disconnect the breather hose from the bottom of the air box so I have some slack to reattach to the valve cover!
 - [capacitor as backup for dead battery](https://thumpertalk.com/forums/topic/1091727-starting-a-350exc-without-a-battery/page/3/)

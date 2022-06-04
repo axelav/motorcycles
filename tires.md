@@ -43,12 +43,13 @@
 
 ## mousse
 
-[The Great Nitro Mousse Controversy/Tyre/Tire Discussion](https://advrider.com/f/threads/the-great-nitro-mousse-controversy-tyre-tire-discussion.1242914/page-12)
-
-- [jimmy lewis - how to install & remove](https://www.youtube.com/watch?v=mUpYrvIT_yA)
+- removing your mousse [megs braap](https://www.instagram.com/tv/B-f8OW6pzAK/?igshid=1raj6sd4yj5mn)
 - [installing your bib mousse](https://www.youtube.com/watch?v=8TvbQ8IIIWk)
+- [jimmy lewis - how to install & remove](https://www.youtube.com/watch?v=mUpYrvIT_yA)
 - [zip ty tips](https://www.youtube.com/watch?v=rdUWsk1-gnE)
 - [dismount & mount](https://www.youtube.com/watch?v=XCbr_gkSRLg)
+
+[The Great Nitro Mousse Controversy/Tyre/Tire Discussion](https://advrider.com/f/threads/the-great-nitro-mousse-controversy-tyre-tire-discussion.1242914/page-12)
 
 > The NM18-305 works great with the GT333 in 110/100-18 on the rear.
 

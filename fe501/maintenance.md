@@ -4,10 +4,22 @@ Purchased on **2019-03-19** with **0** hours for \$9500
 
 ## maintenance
 
-### 81 hours / 2305 miles / 2019-12-07
+### TODO
+
+- change oil
+- bleed brakes
+
+### 89 hours / 2536 miles / 2020-05-16
+
+- replace oil and filter
+
+### 81 hours / 2305 miles / 2020-03-16
 
 - replace tank fuel filter
 - install Pro Taper Evo Windham bend handlebars (cut 1/2" each side)
+- replace chain (DID 520 ERVT, 117 links)
+- replace air filter
+- replace rear sprocket, 50T (Dirt Tricks)
 
 ### 72 hours / 2150 miles / 2019-11-14
 
@@ -103,7 +115,7 @@ Purchased on **2019-03-19** with **0** hours for \$9500
 - loctite shock bottom bolt
 - replace fork springs (0.50 kg/mm)
 - replace headlight (Baja Designs S2 and Squadron Pro)
-- replace pegs
+- replace pegs (Fastway Evo 4)
 - replace rear fender, brake light, and turn signals (Sicass)
 - replace seat
 - replace shock spring (5.4kg/mm)
@@ -132,6 +144,20 @@ Purchased on **2019-03-19** with **0** hours for \$9500
 | intake right  | 0.15mm    | 2.12mm |
 | exhaust left  | 0.13mm    | ???    |
 | exhaust right | 0.13mm    | ???    |
+
+## suspension
+
+| date       | FC  | FR  | RCL | RCH  | RR  | Notes                                                                               |
+| ---------- | --- | --- | --- | ---- | --- | ----------------------------------------------------------------------------------- |
+| 2019-10-?? | 13  | 13  | 14  | 1.75 | 14  | sandy, NJ; works well, front seems harsh at times, but mostly as bike is warming up |
+| 2019-09-?? | 18  | 18  | 18  | 2    | 18  | rocks, PA                                                                           |
+
+### springs
+
+| part  | rate       | preload |
+| ----- | ---------- | ------- |
+| shock | 5.40 kg/mm | 14mm    |
+| forks | 0.50 kg/mm | 0       |
 
 ## upgrades
 

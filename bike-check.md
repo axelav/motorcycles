@@ -3,6 +3,7 @@
 - adjust chain
 - adjust handlebar position
 - align forks
+- anti seize bar mount bolts
 - anti seize brake pad pins front and rear
 - anti seize chain adjuster bolts
 - balance wheels
